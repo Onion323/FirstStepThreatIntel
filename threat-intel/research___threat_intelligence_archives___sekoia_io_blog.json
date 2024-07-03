@@ -1,0 +1,202 @@
+{
+  "items": [
+    {
+      "creator": "Quentin Bourgue and Sekoia TDR",
+      "title": "Exposing FakeBat loader: distribution methods and adversary infrastructure",
+      "link": "https://blog.sekoia.io/exposing-fakebat-loader-distribution-methods-and-adversary-infrastructure/",
+      "pubDate": "Tue, 02 Jul 2024 08:00:00 +0000",
+      "dc:creator": "Quentin Bourgue and Sekoia TDR",
+      "content": "<p>During the first semester of 2024, FakeBat (aka EugenLoader, PaykLoader) was one of the most widespread loaders using the drive-by download technique.</p>\n<p>La publication suivante <a href=\"https://blog.sekoia.io/exposing-fakebat-loader-distribution-methods-and-adversary-infrastructure/\">Exposing FakeBat loader: distribution methods and adversary infrastructure</a> est un article de <a href=\"https://blog.sekoia.io\">Sekoia.io Blog</a>.</p>\n",
+      "contentSnippet": "During the first semester of 2024, FakeBat (aka EugenLoader, PaykLoader) was one of the most widespread loaders using the drive-by download technique.\nLa publication suivante Exposing FakeBat loader: distribution methods and adversary infrastructure est un article de Sekoia.io Blog.",
+      "guid": "https://blog.sekoia.io/?p=9141",
+      "categories": [
+        "Blogpost",
+        "Research & Threat Intelligence",
+        "CTI",
+        "Cybercrime",
+        "Infrastructure",
+        "Malware"
+      ],
+      "isoDate": "2024-07-02T08:00:00.000Z"
+    },
+    {
+      "creator": "Pierre Le Bourhis, Quentin Bourgue and Sekoia TDR",
+      "title": "PikaBot: a Guide to its Deep Secrets and Operations",
+      "link": "https://blog.sekoia.io/pikabot-a-guide-to-its-deep-secrets-and-operations/",
+      "pubDate": "Mon, 03 Jun 2024 08:07:24 +0000",
+      "dc:creator": "Pierre Le Bourhis, Quentin Bourgue and Sekoia TDR",
+      "content": "<p>This blog post provides an in-depth analysis of PikaBot, focusing on its anti-analysis techniques implemented in the different malware stages.</p>\n<p>La publication suivante <a href=\"https://blog.sekoia.io/pikabot-a-guide-to-its-deep-secrets-and-operations/\">PikaBot: a Guide to its Deep Secrets and Operations</a> est un article de <a href=\"https://blog.sekoia.io\">Sekoia.io Blog</a>.</p>\n",
+      "contentSnippet": "This blog post provides an in-depth analysis of PikaBot, focusing on its anti-analysis techniques implemented in the different malware stages.\nLa publication suivante PikaBot: a Guide to its Deep Secrets and Operations est un article de Sekoia.io Blog.",
+      "guid": "https://blog.sekoia.io/?p=9016",
+      "categories": [
+        "Blogpost",
+        "Research & Threat Intelligence",
+        "Cybercrime",
+        "Infrastructure",
+        "Malware",
+        "Reverse"
+      ],
+      "isoDate": "2024-06-03T08:07:24.000Z"
+    },
+    {
+      "creator": "Nicolas Caproni",
+      "title": "Introducing Sekoia TDR",
+      "link": "https://blog.sekoia.io/introducing-sekoia-tdr/",
+      "pubDate": "Wed, 29 May 2024 07:35:44 +0000",
+      "dc:creator": "Nicolas Caproni",
+      "content": "<p>This time, we&#8217;re not revealing a new cyber threat investigation or analysis, but I want to share some insights about the team behind all Sekoia Threat Intelligence and Detection Engineering reports. Let me introduce you to the Sekoia TDR team. TL;DR Sekoia Threat Detection &#038; Research (TDR) is a multidisciplinary team dedicated to Cyber Threat [&#8230;]</p>\n<p>La publication suivante <a href=\"https://blog.sekoia.io/introducing-sekoia-tdr/\">Introducing Sekoia TDR</a> est un article de <a href=\"https://blog.sekoia.io\">Sekoia.io Blog</a>.</p>\n",
+      "contentSnippet": "This time, we’re not revealing a new cyber threat investigation or analysis, but I want to share some insights about the team behind all Sekoia Threat Intelligence and Detection Engineering reports. Let me introduce you to the Sekoia TDR team. TL;DR Sekoia Threat Detection & Research (TDR) is a multidisciplinary team dedicated to Cyber Threat […]\nLa publication suivante Introducing Sekoia TDR est un article de Sekoia.io Blog.",
+      "guid": "https://blog.sekoia.io/?p=8969",
+      "categories": [
+        "Blogpost",
+        "Research & Threat Intelligence",
+        "TDR"
+      ],
+      "isoDate": "2024-05-29T07:35:44.000Z"
+    },
+    {
+      "creator": "Sekoia TDR, Coline Chavane, Amaury G. and Kilian Seznec",
+      "title": "Master of Puppets: Uncovering the DoppelGänger pro-Russian influence campaign",
+      "link": "https://blog.sekoia.io/master-of-puppets-uncovering-the-doppelganger-pro-russian-influence-campaign/",
+      "pubDate": "Tue, 21 May 2024 06:00:00 +0000",
+      "dc:creator": "Sekoia TDR, Coline Chavane, Amaury G. and Kilian Seznec",
+      "content": "<p>This report was originally published for our customers on 14 May 2024. Executive summary Introduction On the eve of 2024, an election year in which more than 54% of the world&#8217;s population will be called to the polls, the pro-Russian influence campaign DoppelGänger has been given special attention by Western democracies. This type of operation [&#8230;]</p>\n<p>La publication suivante <a href=\"https://blog.sekoia.io/master-of-puppets-uncovering-the-doppelganger-pro-russian-influence-campaign/\">Master of Puppets: Uncovering the DoppelGänger pro-Russian influence campaign</a> est un article de <a href=\"https://blog.sekoia.io\">Sekoia.io Blog</a>.</p>\n",
+      "contentSnippet": "This report was originally published for our customers on 14 May 2024. Executive summary Introduction On the eve of 2024, an election year in which more than 54% of the world’s population will be called to the polls, the pro-Russian influence campaign DoppelGänger has been given special attention by Western democracies. This type of operation […]\nLa publication suivante Master of Puppets: Uncovering the DoppelGänger pro-Russian influence campaign est un article de Sekoia.io Blog.",
+      "guid": "https://blog.sekoia.io/?p=8871",
+      "categories": [
+        "Blogpost",
+        "Research & Threat Intelligence",
+        "Influence",
+        "Infrastructure",
+        "Strategic"
+      ],
+      "isoDate": "2024-05-21T06:00:00.000Z"
+    },
+    {
+      "creator": "Thomas M. and Sekoia TDR",
+      "title": "Elevating Cybersecurity: The Sekoia.io Methodology for Advanced Detection Engineering",
+      "link": "https://blog.sekoia.io/elevating-cybersecurity-the-sekoia-io-methodology-for-advanced-detection-engineering/",
+      "pubDate": "Wed, 15 May 2024 07:06:57 +0000",
+      "dc:creator": "Thomas M. and Sekoia TDR",
+      "content": "<p>In the constantly evolving cybersecurity landscape, Sekoia.io is at the forefront of crafting sophisticated detection engineering strategies. This blog post dives into our approach to security and more specifically in the creation of detection rules. Aimed at both our existing and future users, this article unveils the complexities of detection engineering. We will showcase how [&#8230;]</p>\n<p>La publication suivante <a href=\"https://blog.sekoia.io/elevating-cybersecurity-the-sekoia-io-methodology-for-advanced-detection-engineering/\">Elevating Cybersecurity: The Sekoia.io Methodology for Advanced Detection Engineering</a> est un article de <a href=\"https://blog.sekoia.io\">Sekoia.io Blog</a>.</p>\n",
+      "contentSnippet": "In the constantly evolving cybersecurity landscape, Sekoia.io is at the forefront of crafting sophisticated detection engineering strategies. This blog post dives into our approach to security and more specifically in the creation of detection rules. Aimed at both our existing and future users, this article unveils the complexities of detection engineering. We will showcase how […]\nLa publication suivante Elevating Cybersecurity: The Sekoia.io Methodology for Advanced Detection Engineering est un article de Sekoia.io Blog.",
+      "guid": "https://blog.sekoia.io/?p=8710",
+      "categories": [
+        "Blogpost",
+        "Research & Threat Intelligence",
+        "Detection Engineering",
+        "XDR"
+      ],
+      "isoDate": "2024-05-15T07:06:57.000Z"
+    },
+    {
+      "creator": "Sekoia TDR, Jeremy Scion, Livia Tibirna and Pierre Le Bourhis",
+      "title": "Mallox affiliate leverages PureCrypter in MS-SQL exploitation campaigns",
+      "link": "https://blog.sekoia.io/mallox-ransomware-affiliate-leverages-purecrypter-in-microsoft-sql-exploitation-campaigns/",
+      "pubDate": "Mon, 13 May 2024 07:55:00 +0000",
+      "dc:creator": "Sekoia TDR, Jeremy Scion, Livia Tibirna and Pierre Le Bourhis",
+      "content": "<p>This report was originally published for our customers on 2 May 2024. As part of our critical vulnerabilities monitoring routine, Sekoia’s Threat &#38; Detection Research (TDR) team deploys and supervises honeypots in different locations around the world to identify potential exploitations. Table of contents Introduction Infection flow Initial access Exploitation Post exploitation PureCrypter payload analysis [&#8230;]</p>\n<p>La publication suivante <a href=\"https://blog.sekoia.io/mallox-ransomware-affiliate-leverages-purecrypter-in-microsoft-sql-exploitation-campaigns/\">Mallox affiliate leverages PureCrypter in MS-SQL exploitation campaigns</a> est un article de <a href=\"https://blog.sekoia.io\">Sekoia.io Blog</a>.</p>\n",
+      "contentSnippet": "This report was originally published for our customers on 2 May 2024. As part of our critical vulnerabilities monitoring routine, Sekoia’s Threat & Detection Research (TDR) team deploys and supervises honeypots in different locations around the world to identify potential exploitations. Table of contents Introduction Infection flow Initial access Exploitation Post exploitation PureCrypter payload analysis […]\nLa publication suivante Mallox affiliate leverages PureCrypter in MS-SQL exploitation campaigns est un article de Sekoia.io Blog.",
+      "guid": "https://blog.sekoia.io/?p=8796",
+      "categories": [
+        "Blogpost",
+        "Research & Threat Intelligence",
+        "Cybercrime",
+        "Malware",
+        "Ransomware"
+      ],
+      "isoDate": "2024-05-13T07:55:00.000Z"
+    },
+    {
+      "creator": "Sekoia TDR, Coline Chavane, Maxime A. and Livia Tibirna",
+      "title": "Guarding Democracy: Assessing Cyber Threats to 2024 Worldwide Elections",
+      "link": "https://blog.sekoia.io/guarding-democracy-assessing-cyber-threats-to-2024-worldwide-elections/",
+      "pubDate": "Tue, 30 Apr 2024 12:00:00 +0000",
+      "dc:creator": "Sekoia TDR, Coline Chavane, Maxime A. and Livia Tibirna",
+      "content": "<p>Executive Summary Introduction 2024 marks a pivotal moment in global politics as an unusual number of elections have and will take place across various nations, encompassing approximately 54% of the world&#8217;s population. Elections serve as keystone events in democratic societies, signifying not only the will of the people but also stability and continuity in governance. [&#8230;]</p>\n<p>La publication suivante <a href=\"https://blog.sekoia.io/guarding-democracy-assessing-cyber-threats-to-2024-worldwide-elections/\">Guarding Democracy: Assessing Cyber Threats to 2024 Worldwide Elections</a> est un article de <a href=\"https://blog.sekoia.io\">Sekoia.io Blog</a>.</p>\n",
+      "contentSnippet": "Executive Summary Introduction 2024 marks a pivotal moment in global politics as an unusual number of elections have and will take place across various nations, encompassing approximately 54% of the world’s population. Elections serve as keystone events in democratic societies, signifying not only the will of the people but also stability and continuity in governance. […]\nLa publication suivante Guarding Democracy: Assessing Cyber Threats to 2024 Worldwide Elections est un article de Sekoia.io Blog.",
+      "guid": "https://blog.sekoia.io/?p=8763",
+      "categories": [
+        "Blogpost",
+        "Research & Threat Intelligence",
+        "CTI",
+        "Elections",
+        "Influence",
+        "Strategic"
+      ],
+      "isoDate": "2024-04-30T12:00:00.000Z"
+    },
+    {
+      "creator": "Sekoia TDR, Felix Aimé and Charles M.",
+      "title": "Unplugging PlugX: Sinkholing the PlugX USB worm botnet",
+      "link": "https://blog.sekoia.io/unplugging-plugx-sinkholing-the-plugx-usb-worm-botnet/",
+      "pubDate": "Thu, 25 Apr 2024 07:10:00 +0000",
+      "dc:creator": "Sekoia TDR, Felix Aimé and Charles M.",
+      "content": "<p>Key Takeaways In September 2023, we successfully sinkholed a command and control server linked to the PlugX worms. For just $7, we acquired the unique IP address tied to a variant of this worm, which had been previously documented by Sophos. &#160; Almost four years after its initial launch, between ~90,000 to ~100,000 unique public [&#8230;]</p>\n<p>La publication suivante <a href=\"https://blog.sekoia.io/unplugging-plugx-sinkholing-the-plugx-usb-worm-botnet/\">Unplugging PlugX: Sinkholing the PlugX USB worm botnet</a> est un article de <a href=\"https://blog.sekoia.io\">Sekoia.io Blog</a>.</p>\n",
+      "contentSnippet": "Key Takeaways In September 2023, we successfully sinkholed a command and control server linked to the PlugX worms. For just $7, we acquired the unique IP address tied to a variant of this worm, which had been previously documented by Sophos.   Almost four years after its initial launch, between ~90,000 to ~100,000 unique public […]\nLa publication suivante Unplugging PlugX: Sinkholing the PlugX USB worm botnet est un article de Sekoia.io Blog.",
+      "guid": "https://blog.sekoia.io/?p=8474",
+      "categories": [
+        "Blogpost",
+        "Research & Threat Intelligence",
+        "mustang panda",
+        "plugx",
+        "sinkhole",
+        "worm"
+      ],
+      "isoDate": "2024-04-25T07:10:00.000Z"
+    },
+    {
+      "creator": "Sekoia TDR, Guillaume C. and Erwan Chevalier",
+      "title": "AWS Detection Engineering",
+      "link": "https://blog.sekoia.io/aws-detection-engineering/",
+      "pubDate": "Thu, 18 Apr 2024 12:00:00 +0000",
+      "dc:creator": "Sekoia TDR, Guillaume C. and Erwan Chevalier",
+      "content": "<p>A broad introduction to AWS logs sources and relevant events for detection engineering</p>\n<p>La publication suivante <a href=\"https://blog.sekoia.io/aws-detection-engineering/\">AWS Detection Engineering</a> est un article de <a href=\"https://blog.sekoia.io\">Sekoia.io Blog</a>.</p>\n",
+      "contentSnippet": "A broad introduction to AWS logs sources and relevant events for detection engineering\nLa publication suivante AWS Detection Engineering est un article de Sekoia.io Blog.",
+      "guid": "https://blog.sekoia.io/?p=8444",
+      "categories": [
+        "Blogpost",
+        "Research & Threat Intelligence",
+        "AWS",
+        "Detection",
+        "Detection Engineering"
+      ],
+      "isoDate": "2024-04-18T12:00:00.000Z"
+    },
+    {
+      "creator": "Sekoia TDR and Quentin Bourgue",
+      "title": "Tycoon 2FA: an in-depth analysis of the latest version of the AiTM phishing kit",
+      "link": "https://blog.sekoia.io/tycoon-2fa-an-in-depth-analysis-of-the-latest-version-of-the-aitm-phishing-kit/",
+      "pubDate": "Mon, 25 Mar 2024 09:30:00 +0000",
+      "dc:creator": "Sekoia TDR and Quentin Bourgue",
+      "content": "<p>Tycoon 2FA has become one of the most widespread AiTM phishing kits over the last few months.</p>\n<p>La publication suivante <a href=\"https://blog.sekoia.io/tycoon-2fa-an-in-depth-analysis-of-the-latest-version-of-the-aitm-phishing-kit/\">Tycoon 2FA: an in-depth analysis of the latest version of the AiTM phishing kit</a> est un article de <a href=\"https://blog.sekoia.io\">Sekoia.io Blog</a>.</p>\n",
+      "contentSnippet": "Tycoon 2FA has become one of the most widespread AiTM phishing kits over the last few months.\nLa publication suivante Tycoon 2FA: an in-depth analysis of the latest version of the AiTM phishing kit est un article de Sekoia.io Blog.",
+      "guid": "https://blog.sekoia.io/?p=8293",
+      "categories": [
+        "Blogpost",
+        "Research & Threat Intelligence",
+        "CTI",
+        "Cybercrime",
+        "Infrastructure"
+      ],
+      "isoDate": "2024-03-25T09:30:00.000Z"
+    }
+  ],
+  "feedUrl": "https://blog.sekoia.io/category/research-threat-intelligence/feed/",
+  "image": {
+    "link": "https://blog.sekoia.io/category/research-threat-intelligence/",
+    "url": "https://blog.sekoia.io/wp-content/uploads/2023/03/Fav_Sekoia.svg",
+    "title": "Research & Threat Intelligence Archives - Sekoia.io Blog",
+    "width": "32",
+    "height": "32"
+  },
+  "paginationLinks": {
+    "self": "https://blog.sekoia.io/category/research-threat-intelligence/feed/"
+  },
+  "title": "Research & Threat Intelligence Archives - Sekoia.io Blog",
+  "description": "One view. Total control.",
+  "generator": "https://wordpress.org/?v=6.5.5",
+  "link": "https://blog.sekoia.io/category/research-threat-intelligence/",
+  "language": "en-GB",
+  "lastBuildDate": "Tue, 02 Jul 2024 08:08:08 +0000"
+}

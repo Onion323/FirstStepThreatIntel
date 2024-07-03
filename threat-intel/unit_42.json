@@ -1,0 +1,505 @@
+{
+  "items": [
+    {
+      "creator": "Unit 42",
+      "title": "Threat Brief: CVE-2024-6387 OpenSSH RegreSSHion Vulnerability",
+      "link": "https://unit42.paloaltonetworks.com/threat-brief-cve-2024-6387-openssh/",
+      "pubDate": "Tue, 02 Jul 2024 18:28:47 +0000",
+      "enclosure": {
+        "length": "1556434",
+        "type": "image/jpeg",
+        "url": "https://unit42.paloaltonetworks.com/wp-content/uploads/2024/06/03_Vulnerabilities_1920x900.jpg"
+      },
+      "dc:creator": "Unit 42",
+      "comments": "https://unit42.paloaltonetworks.com/threat-brief-cve-2024-6387-openssh/#respond",
+      "content": "<p>This threat brief details CVE-2024-6387, called RegreSSHion, an RCE vulnerability affecting connectivity tool OpenSSH servers on glibc-based Linux systems.</p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/threat-brief-cve-2024-6387-openssh/\">Threat Brief: CVE-2024-6387 OpenSSH RegreSSHion Vulnerability</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>\n",
+      "contentSnippet": "This threat brief details CVE-2024-6387, called RegreSSHion, an RCE vulnerability affecting connectivity tool OpenSSH servers on glibc-based Linux systems.\nThe post Threat Brief: CVE-2024-6387 OpenSSH RegreSSHion Vulnerability appeared first on Unit 42.",
+      "guid": "https://unit42.paloaltonetworks.com/?p=135360",
+      "categories": [
+        "Cloud Cybersecurity Research",
+        "High Profile Threats",
+        "Vulnerabilities",
+        "CVE-2024-6387",
+        "OpenSSH",
+        "RegreSSHion",
+        "Remote Code Execution",
+        "SSH"
+      ],
+      "isoDate": "2024-07-02T18:28:47.000Z",
+      "itunes": {
+        "subtitle": "This threat brief details CVE-2024-6387, called RegreSSHion, an RCE vulnerability affecting connectivity tool OpenSSH servers on glibc-based Linux systems. The post Threat Brief: CVE-2024-6387 OpenSSH RegreSSHion Vulnerability appeared first on Unit 42.",
+        "summary": "This threat brief details CVE-2024-6387, called RegreSSHion, an RCE vulnerability affecting connectivity tool OpenSSH servers on glibc-based Linux systems. The post Threat Brief: CVE-2024-6387 OpenSSH RegreSSHion Vulnerability appeared first on Unit 42.",
+        "explicit": "",
+        "keywords": "Cloud Cybersecurity Research, High Profile Threats, Vulnerabilities, CVE-2024-6387, OpenSSH, RegreSSHion, Remote Code Execution, SSH"
+      }
+    },
+    {
+      "creator": "Brody Kutt",
+      "title": "The Contrastive Credibility Propagation Algorithm in Action: Improving ML-powered Data Loss Prevention",
+      "link": "https://unit42.paloaltonetworks.com/contrastive-credibility-propagation/",
+      "pubDate": "Fri, 28 Jun 2024 10:00:57 +0000",
+      "enclosure": {
+        "length": "979525",
+        "type": "image/jpeg",
+        "url": "https://unit42.paloaltonetworks.com/wp-content/uploads/2024/06/09_Security-Technology_Category_1920x900.jpg"
+      },
+      "dc:creator": "Brody Kutt",
+      "comments": "https://unit42.paloaltonetworks.com/contrastive-credibility-propagation/#respond",
+      "content": "<p>Our novel contrastive credibility propagation algorithm improves on data loss prevention and has unique applications to sensitive material. </p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/contrastive-credibility-propagation/\">The Contrastive Credibility Propagation Algorithm in Action: Improving ML-powered Data Loss Prevention</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>\n",
+      "contentSnippet": "Our novel contrastive credibility propagation algorithm improves on data loss prevention and has unique applications to sensitive material. \nThe post The Contrastive Credibility Propagation Algorithm in Action: Improving ML-powered Data Loss Prevention appeared first on Unit 42.",
+      "guid": "https://unit42.paloaltonetworks.com/?p=135277",
+      "categories": [
+        "Security Technology",
+        "Threat Research",
+        "data loss prevention",
+        "deep learning",
+        "Machine Learning",
+        "semi-supervised model"
+      ],
+      "isoDate": "2024-06-28T10:00:57.000Z",
+      "itunes": {
+        "subtitle": "Our novel contrastive credibility propagation algorithm improves on data loss prevention and has unique applications to sensitive material. The post The Contrastive Credibility Propagation Algorithm in Action: Improving ML-powered Data Loss Prevention appeared first on Unit 42.",
+        "summary": "Our novel contrastive credibility propagation algorithm improves on data loss prevention and has unique applications to sensitive material. The post The Contrastive Credibility Propagation Algorithm in Action: Improving ML-powered Data Loss Prevention appeared first on Unit 42.",
+        "explicit": "",
+        "keywords": "Security Technology, Threat Research, data loss prevention, deep learning, Machine Learning, semi-supervised model"
+      }
+    },
+    {
+      "creator": "Durgesh Sangvikar, Yanhui Jia, Chris Navarrete and Matthew Tennis",
+      "title": "Attackers Exploiting Public Cobalt Strike Profiles",
+      "link": "https://unit42.paloaltonetworks.com/attackers-exploit-public-cobalt-strike-profiles/",
+      "pubDate": "Wed, 26 Jun 2024 10:00:12 +0000",
+      "enclosure": {
+        "length": "1400619",
+        "type": "image/jpeg",
+        "url": "https://unit42.paloaltonetworks.com/wp-content/uploads/2024/06/04_Malware_Category_1920x900.jpg"
+      },
+      "dc:creator": "Durgesh Sangvikar, Yanhui Jia, Chris Navarrete and Matthew Tennis",
+      "comments": "https://unit42.paloaltonetworks.com/attackers-exploit-public-cobalt-strike-profiles/#respond",
+      "content": "<p>Unit 42 researchers examine how attackers use publicly available Malleable C2 profiles, examining their structure to reveal evasive techniques.</p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/attackers-exploit-public-cobalt-strike-profiles/\">Attackers Exploiting Public Cobalt Strike Profiles</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>\n",
+      "contentSnippet": "Unit 42 researchers examine how attackers use publicly available Malleable C2 profiles, examining their structure to reveal evasive techniques.\nThe post Attackers Exploiting Public Cobalt Strike Profiles appeared first on Unit 42.",
+      "guid": "https://unit42.paloaltonetworks.com/?p=135250",
+      "categories": [
+        "Malware",
+        "Threat Research",
+        "Cobalt Strike",
+        "malleable C2 profile"
+      ],
+      "isoDate": "2024-06-26T10:00:12.000Z",
+      "itunes": {
+        "subtitle": "Unit 42 researchers examine how attackers use publicly available Malleable C2 profiles, examining their structure to reveal evasive techniques. The post Attackers Exploiting Public Cobalt Strike Profiles appeared first on Unit 42.",
+        "summary": "Unit 42 researchers examine how attackers use publicly available Malleable C2 profiles, examining their structure to reveal evasive techniques. The post Attackers Exploiting Public Cobalt Strike Profiles appeared first on Unit 42.",
+        "explicit": "",
+        "keywords": "Malware, Threat Research, Cobalt Strike, malleable C2 profile"
+      }
+    },
+    {
+      "creator": "Jay Chen",
+      "title": "Attack Paths Into VMs in the Cloud",
+      "link": "https://unit42.paloaltonetworks.com/cloud-virtual-machine-attack-vectors/",
+      "pubDate": "Tue, 18 Jun 2024 10:00:23 +0000",
+      "enclosure": {
+        "length": "498280",
+        "type": "image/jpeg",
+        "url": "https://unit42.paloaltonetworks.com/wp-content/uploads/2024/06/unit42-cloud-attacks.jpg"
+      },
+      "dc:creator": "Jay Chen",
+      "comments": "https://unit42.paloaltonetworks.com/cloud-virtual-machine-attack-vectors/#respond",
+      "content": "<p>Virtual machines (VMs) are a significant attack target. Focusing on three major CSPs, this research summarizes the conditions for possible VM attack paths.</p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/cloud-virtual-machine-attack-vectors/\">Attack Paths Into VMs in the Cloud</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>\n",
+      "contentSnippet": "Virtual machines (VMs) are a significant attack target. Focusing on three major CSPs, this research summarizes the conditions for possible VM attack paths.\nThe post Attack Paths Into VMs in the Cloud appeared first on Unit 42.",
+      "guid": "https://unit42.paloaltonetworks.com/?p=133636",
+      "categories": [
+        "Cloud Cybersecurity Research",
+        "Threat Research",
+        "Trend Reports",
+        "AWS",
+        "Azure",
+        "IaaS",
+        "Microsoft",
+        "virtual machines"
+      ],
+      "isoDate": "2024-06-18T10:00:23.000Z",
+      "itunes": {
+        "subtitle": "Virtual machines (VMs) are a significant attack target. Focusing on three major CSPs, this research summarizes the conditions for possible VM attack paths. The post Attack Paths Into VMs in the Cloud appeared first on Unit 42.",
+        "summary": "Virtual machines (VMs) are a significant attack target. Focusing on three major CSPs, this research summarizes the conditions for possible VM attack paths. The post Attack Paths Into VMs in the Cloud appeared first on Unit 42.",
+        "explicit": "",
+        "keywords": "Cloud Cybersecurity Research, Threat Research, Trend Reports, AWS, Azure, IaaS, Microsoft, virtual machines"
+      }
+    },
+    {
+      "creator": "Lior Rochberger and Daniel Frank",
+      "title": "Operation Diplomatic Specter: An Active Chinese Cyberespionage Campaign Leverages Rare Tool Set to Target Governmental Entities in the Middle East, Africa and Asia",
+      "link": "https://unit42.paloaltonetworks.com/operation-diplomatic-specter/",
+      "pubDate": "Thu, 23 May 2024 10:00:36 +0000",
+      "enclosure": {
+        "length": "611028",
+        "type": "image/jpeg",
+        "url": "https://unit42.paloaltonetworks.com/wp-content/uploads/2024/06/01_Malware_Category_1920x900.jpg"
+      },
+      "dc:creator": "Lior Rochberger and Daniel Frank",
+      "comments": "https://unit42.paloaltonetworks.com/operation-diplomatic-specter/#respond",
+      "content": "<p>A Chinese APT group is targeting political entities across multiple continents. Named Operation Diplomatic Specter, this campaign uses rare techniques and a unique toolset.</p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/operation-diplomatic-specter/\">Operation Diplomatic Specter: An Active Chinese Cyberespionage Campaign Leverages Rare Tool Set to Target Governmental Entities in the Middle East, Africa and Asia</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>\n",
+      "contentSnippet": "A Chinese APT group is targeting political entities across multiple continents. Named Operation Diplomatic Specter, this campaign uses rare techniques and a unique toolset.\nThe post Operation Diplomatic Specter: An Active Chinese Cyberespionage Campaign Leverages Rare Tool Set to Target Governmental Entities in the Middle East, Africa and Asia appeared first on Unit 42.",
+      "guid": "https://unit42.paloaltonetworks.com/?p=133584",
+      "categories": [
+        "Malware",
+        "Nation-State Cyberattacks",
+        "Threat Actor Groups",
+        "Threat Research",
+        "Advanced Persistent Threat",
+        "backdoor",
+        "China",
+        "Diplomatic Specter",
+        "Gh0st Rat",
+        "SweetSpecter",
+        "TGR-STA-0043",
+        "TunnelSpecter"
+      ],
+      "isoDate": "2024-05-23T10:00:36.000Z",
+      "itunes": {
+        "subtitle": "A Chinese APT group is targeting political entities across multiple continents. Named Operation Diplomatic Specter, this campaign uses rare techniques and a unique toolset. The post Operation Diplomatic Specter: An Active Chinese Cyberespionage Campaign Leverages Rare Tool Set to Target Governmental Entities in the Middle East, Africa and Asia appeared first on Unit 42.",
+        "summary": "A Chinese APT group is targeting political entities across multiple continents. Named Operation Diplomatic Specter, this campaign uses rare techniques and a unique toolset. The post Operation Diplomatic Specter: An Active Chinese Cyberespionage Campaign Leverages Rare Tool Set to Target Governmental Entities in the Middle East, Africa and Asia appeared first on Unit 42.",
+        "explicit": "",
+        "keywords": "Malware, Nation-State Cyberattacks, Threat Actor Groups, Threat Research, Advanced Persistent Threat, backdoor, China, Diplomatic Specter, Gh0st Rat, SweetSpecter, TGR-STA-0043, TunnelSpecter"
+      }
+    },
+    {
+      "creator": "Ashkan Hosseini and Ashutosh Chitwadgi",
+      "title": "Payload Trends in Malicious OneNote Samples",
+      "link": "https://unit42.paloaltonetworks.com/payloads-in-malicious-onenote-samples/",
+      "pubDate": "Thu, 16 May 2024 10:00:02 +0000",
+      "enclosure": {
+        "length": "874605",
+        "type": "image/jpeg",
+        "url": "https://unit42.paloaltonetworks.com/wp-content/uploads/2024/06/03_Malware_Category_1920x900.jpg"
+      },
+      "dc:creator": "Ashkan Hosseini and Ashutosh Chitwadgi",
+      "comments": "https://unit42.paloaltonetworks.com/payloads-in-malicious-onenote-samples/#respond",
+      "content": "<p>This article examines the distribution of malicious payloads embedded in Microsoft OneNote files by type, a first in our research to do so at such a scale.</p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/payloads-in-malicious-onenote-samples/\">Payload Trends in Malicious OneNote Samples</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>\n",
+      "contentSnippet": "This article examines the distribution of malicious payloads embedded in Microsoft OneNote files by type, a first in our research to do so at such a scale.\nThe post Payload Trends in Malicious OneNote Samples appeared first on Unit 42.",
+      "guid": "https://unit42.paloaltonetworks.com/?p=133519",
+      "categories": [
+        "Cybercrime",
+        "Malware",
+        "Threat Research",
+        "malvertising",
+        "Microsoft OneNote",
+        "phishing"
+      ],
+      "isoDate": "2024-05-16T10:00:02.000Z",
+      "itunes": {
+        "subtitle": "This article examines the distribution of malicious payloads embedded in Microsoft OneNote files by type, a first in our research to do so at such a scale. The post Payload Trends in Malicious OneNote Samples appeared first on Unit 42.",
+        "summary": "This article examines the distribution of malicious payloads embedded in Microsoft OneNote files by type, a first in our research to do so at such a scale. The post Payload Trends in Malicious OneNote Samples appeared first on Unit 42.",
+        "explicit": "",
+        "keywords": "Cybercrime, Malware, Threat Research, malvertising, Microsoft OneNote, phishing"
+      }
+    },
+    {
+      "creator": "Shu Wang, Ruian Duan and Daiping Liu",
+      "title": "Leveraging DNS Tunneling for Tracking and Scanning",
+      "link": "https://unit42.paloaltonetworks.com/three-dns-tunneling-campaigns/",
+      "pubDate": "Mon, 13 May 2024 10:00:29 +0000",
+      "enclosure": {
+        "length": "962698",
+        "type": "image/jpeg",
+        "url": "https://unit42.paloaltonetworks.com/wp-content/uploads/2024/06/02_DNS_Overview_1920x900.jpg"
+      },
+      "dc:creator": "Shu Wang, Ruian Duan and Daiping Liu",
+      "comments": "https://unit42.paloaltonetworks.com/three-dns-tunneling-campaigns/#respond",
+      "content": "<p>We provide a walkthrough of how attackers leverage DNS tunneling for tracking and scanning, an expansion of the way this technique is usually exploited. </p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/three-dns-tunneling-campaigns/\">Leveraging DNS Tunneling for Tracking and Scanning</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>\n",
+      "contentSnippet": "We provide a walkthrough of how attackers leverage DNS tunneling for tracking and scanning, an expansion of the way this technique is usually exploited. \nThe post Leveraging DNS Tunneling for Tracking and Scanning appeared first on Unit 42.",
+      "guid": "https://unit42.paloaltonetworks.com/?p=133492",
+      "categories": [
+        "DNS",
+        "Security Technology",
+        "Threat Research",
+        "DNS tunneling",
+        "scanning",
+        "tracking"
+      ],
+      "isoDate": "2024-05-13T10:00:29.000Z",
+      "itunes": {
+        "subtitle": "We provide a walkthrough of how attackers leverage DNS tunneling for tracking and scanning, an expansion of the way this technique is usually exploited. The post Leveraging DNS Tunneling for Tracking and Scanning appeared first on Unit 42.",
+        "summary": "We provide a walkthrough of how attackers leverage DNS tunneling for tracking and scanning, an expansion of the way this technique is usually exploited. The post Leveraging DNS Tunneling for Tracking and Scanning appeared first on Unit 42.",
+        "explicit": "",
+        "keywords": "DNS, Security Technology, Threat Research, DNS tunneling, scanning, tracking"
+      }
+    },
+    {
+      "creator": "Unit 42",
+      "title": "Threat Brief: Operation MidnightEclipse, Post-Exploitation Activity Related to CVE-2024-3400 (Updated May 20)",
+      "link": "https://unit42.paloaltonetworks.com/cve-2024-3400/",
+      "pubDate": "Fri, 12 Apr 2024 17:00:40 +0000",
+      "enclosure": {
+        "length": "1331755",
+        "type": "image/jpeg",
+        "url": "https://unit42.paloaltonetworks.com/wp-content/uploads/2024/06/07_Nation-State-cyberattacks_1920x900.jpg"
+      },
+      "dc:creator": "Unit 42",
+      "comments": "https://unit42.paloaltonetworks.com/cve-2024-3400/#respond",
+      "content": "<p>We detail Operation MidnightEclipse, a campaign exploiting command injection vulnerability CVE-2024-3400, and include protections and mitigations.</p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/cve-2024-3400/\">Threat Brief: Operation MidnightEclipse, Post-Exploitation Activity Related to CVE-2024-3400 (Updated May 20)</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>\n",
+      "contentSnippet": "We detail Operation MidnightEclipse, a campaign exploiting command injection vulnerability CVE-2024-3400, and include protections and mitigations.\nThe post Threat Brief: Operation MidnightEclipse, Post-Exploitation Activity Related to CVE-2024-3400 (Updated May 20) appeared first on Unit 42.",
+      "guid": "https://unit42.paloaltonetworks.com/?p=133365",
+      "categories": [
+        "High Profile Threats",
+        "Malware",
+        "Vulnerabilities",
+        "backdoor",
+        "Command injection",
+        "CVE-2024-3400",
+        "MidnightEclipse",
+        "Python",
+        "Upstyle"
+      ],
+      "isoDate": "2024-04-12T17:00:40.000Z",
+      "itunes": {
+        "subtitle": "We detail Operation MidnightEclipse, a campaign exploiting command injection vulnerability CVE-2024-3400, and include protections and mitigations. The post Threat Brief: Operation MidnightEclipse, Post-Exploitation Activity Related to CVE-2024-3400 (Updated May 20) appeared first on Unit 42.",
+        "summary": "We detail Operation MidnightEclipse, a campaign exploiting command injection vulnerability CVE-2024-3400, and include protections and mitigations. The post Threat Brief: Operation MidnightEclipse, Post-Exploitation Activity Related to CVE-2024-3400 (Updated May 20) appeared first on Unit 42.",
+        "explicit": "",
+        "keywords": "High Profile Threats, Malware, Vulnerabilities, backdoor, Command injection, CVE-2024-3400, MidnightEclipse, Python, Upstyle"
+      }
+    },
+    {
+      "creator": "Margaret Zimmermann",
+      "title": "Muddled Libra’s Evolution to the Cloud",
+      "link": "https://unit42.paloaltonetworks.com/muddled-libra-evolution-to-cloud/",
+      "pubDate": "Tue, 09 Apr 2024 18:00:08 +0000",
+      "enclosure": {
+        "length": "1441564",
+        "type": "image/jpeg",
+        "url": "https://unit42.paloaltonetworks.com/wp-content/uploads/2024/06/03_Cloud_cybersecurity_research_Overview_1920x900.jpg"
+      },
+      "dc:creator": "Margaret Zimmermann",
+      "comments": "https://unit42.paloaltonetworks.com/muddled-libra-evolution-to-cloud/#respond",
+      "content": "<p>Muddled Libra now actively targets CSP environments and SaaS applications. Using the MITRE ATT&#038;CK framework, we outline observed TTPs from incident response.</p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/muddled-libra-evolution-to-cloud/\">Muddled Libra’s Evolution to the Cloud</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>\n",
+      "contentSnippet": "Muddled Libra now actively targets CSP environments and SaaS applications. Using the MITRE ATT&CK framework, we outline observed TTPs from incident response.\nThe post Muddled Libra’s Evolution to the Cloud appeared first on Unit 42.",
+      "guid": "https://unit42.paloaltonetworks.com/?p=133306",
+      "categories": [
+        "Cloud Cybersecurity Research",
+        "High Profile Threats",
+        "Threat Actor Groups",
+        "AWS",
+        "Microsoft Azure",
+        "MITRE",
+        "Muddled Libra"
+      ],
+      "isoDate": "2024-04-09T18:00:08.000Z",
+      "itunes": {
+        "subtitle": "Muddled Libra now actively targets CSP environments and SaaS applications. Using the MITRE ATT&#038;CK framework, we outline observed TTPs from incident response. The post Muddled Libra’s Evolution to the Cloud appeared first on Unit 42.",
+        "summary": "Muddled Libra now actively targets CSP environments and SaaS applications. Using the MITRE ATT&#038;CK framework, we outline observed TTPs from incident response. The post Muddled Libra’s Evolution to the Cloud appeared first on Unit 42.",
+        "explicit": "",
+        "keywords": "Cloud Cybersecurity Research, High Profile Threats, Threat Actor Groups, AWS, Microsoft Azure, MITRE, Muddled Libra"
+      }
+    },
+    {
+      "creator": "Beliz Kaleli, Fang Liu, Peng Peng, Alex Starov, Joey Allen and Stefan Springer",
+      "title": "It Was Not Me! Malware-Initiated Vulnerability Scanning Is on the Rise",
+      "link": "https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/",
+      "pubDate": "Mon, 08 Apr 2024 22:00:58 +0000",
+      "enclosure": {
+        "length": "919617",
+        "type": "image/jpeg",
+        "url": "https://unit42.paloaltonetworks.com/wp-content/uploads/2024/06/07_Malware_Category_1920x900.jpg"
+      },
+      "dc:creator": "Beliz Kaleli, Fang Liu, Peng Peng, Alex Starov, Joey Allen and Stefan Springer",
+      "comments": "https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/#respond",
+      "content": "<p>We describe the characteristics of malware-initiated scanning attacks. These attacks differ from direct scanning and are increasing according to our data.</p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/\">It Was Not Me! Malware-Initiated Vulnerability Scanning Is on the Rise</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>\n",
+      "contentSnippet": "We describe the characteristics of malware-initiated scanning attacks. These attacks differ from direct scanning and are increasing according to our data.\nThe post It Was Not Me! Malware-Initiated Vulnerability Scanning Is on the Rise appeared first on Unit 42.",
+      "guid": "https://unit42.paloaltonetworks.com/?p=133284",
+      "categories": [
+        "Malware",
+        "Threat Research",
+        "Ivanti",
+        "Mirai",
+        "network scanning"
+      ],
+      "isoDate": "2024-04-08T22:00:58.000Z",
+      "itunes": {
+        "subtitle": "We describe the characteristics of malware-initiated scanning attacks. These attacks differ from direct scanning and are increasing according to our data. The post It Was Not Me! Malware-Initiated Vulnerability Scanning Is on the Rise appeared first on Unit 42.",
+        "summary": "We describe the characteristics of malware-initiated scanning attacks. These attacks differ from direct scanning and are increasing according to our data. The post It Was Not Me! Malware-Initiated Vulnerability Scanning Is on the Rise appeared first on Unit 42.",
+        "explicit": "",
+        "keywords": "Malware, Threat Research, Ivanti, Mirai, network scanning"
+      }
+    },
+    {
+      "creator": "Unit 42",
+      "title": "Threat Brief: Vulnerability in XZ Utils Data Compression Library Impacting Multiple Linux Distributions (CVE-2024-3094)",
+      "link": "https://unit42.paloaltonetworks.com/threat-brief-xz-utils-cve-2024-3094/",
+      "pubDate": "Sun, 31 Mar 2024 02:15:55 +0000",
+      "enclosure": {
+        "length": "1480017",
+        "type": "image/jpeg",
+        "url": "https://unit42.paloaltonetworks.com/wp-content/uploads/2024/06/05_Vulnerabilities_1920x900.jpg"
+      },
+      "dc:creator": "Unit 42",
+      "comments": "https://unit42.paloaltonetworks.com/threat-brief-xz-utils-cve-2024-3094/#respond",
+      "content": "<p>An overview of CVE-2024-3094, a vulnerability in XZ Utils, and information about how to mitigate.</p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/threat-brief-xz-utils-cve-2024-3094/\">Threat Brief: Vulnerability in XZ Utils Data Compression Library Impacting Multiple Linux Distributions (CVE-2024-3094)</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>\n",
+      "contentSnippet": "An overview of CVE-2024-3094, a vulnerability in XZ Utils, and information about how to mitigate.\nThe post Threat Brief: Vulnerability in XZ Utils Data Compression Library Impacting Multiple Linux Distributions (CVE-2024-3094) appeared first on Unit 42.",
+      "guid": "https://unit42.paloaltonetworks.com/?p=133225",
+      "categories": [
+        "Cloud Cybersecurity Research",
+        "High Profile Threats",
+        "Vulnerabilities",
+        "CVE-2024-3094",
+        "Linux",
+        "XZ Utils"
+      ],
+      "isoDate": "2024-03-31T02:15:55.000Z",
+      "itunes": {
+        "subtitle": "An overview of CVE-2024-3094, a vulnerability in XZ Utils, and information about how to mitigate. The post Threat Brief: Vulnerability in XZ Utils Data Compression Library Impacting Multiple Linux Distributions (CVE-2024-3094) appeared first on Unit 42.",
+        "summary": "An overview of CVE-2024-3094, a vulnerability in XZ Utils, and information about how to mitigate. The post Threat Brief: Vulnerability in XZ Utils Data Compression Library Impacting Multiple Linux Distributions (CVE-2024-3094) appeared first on Unit 42.",
+        "explicit": "",
+        "keywords": "Cloud Cybersecurity Research, High Profile Threats, Vulnerabilities, CVE-2024-3094, Linux, XZ Utils"
+      }
+    },
+    {
+      "creator": "Ravid Mazon and Jay Chen",
+      "title": "Exposing a New BOLA Vulnerability in Grafana",
+      "link": "https://unit42.paloaltonetworks.com/new-bola-vulnerability-grafana/",
+      "pubDate": "Wed, 27 Mar 2024 14:00:34 +0000",
+      "enclosure": {
+        "length": "1486607",
+        "type": "image/jpeg",
+        "url": "https://unit42.paloaltonetworks.com/wp-content/uploads/2024/06/07_Vulnerabilities_1920x900.jpg"
+      },
+      "dc:creator": "Ravid Mazon and Jay Chen",
+      "comments": "https://unit42.paloaltonetworks.com/new-bola-vulnerability-grafana/#respond",
+      "content": "<p>Unit 42 researchers discovered CVE-2024-1313, a broken object level authorization (BOLA) vulnerability in open-source data visualization platform Grafana. </p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/new-bola-vulnerability-grafana/\">Exposing a New BOLA Vulnerability in Grafana</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>\n",
+      "contentSnippet": "Unit 42 researchers discovered CVE-2024-1313, a broken object level authorization (BOLA) vulnerability in open-source data visualization platform Grafana. \nThe post Exposing a New BOLA Vulnerability in Grafana appeared first on Unit 42.",
+      "guid": "https://unit42.paloaltonetworks.com/?p=133191",
+      "categories": [
+        "Threat Research",
+        "Vulnerabilities",
+        "API",
+        "API attacks",
+        "BOLA",
+        "CVE-2024-1313"
+      ],
+      "isoDate": "2024-03-27T14:00:34.000Z",
+      "itunes": {
+        "subtitle": "Unit 42 researchers discovered CVE-2024-1313, a broken object level authorization (BOLA) vulnerability in open-source data visualization platform Grafana. The post Exposing a New BOLA Vulnerability in Grafana appeared first on Unit 42.",
+        "summary": "Unit 42 researchers discovered CVE-2024-1313, a broken object level authorization (BOLA) vulnerability in open-source data visualization platform Grafana. The post Exposing a New BOLA Vulnerability in Grafana appeared first on Unit 42.",
+        "explicit": "",
+        "keywords": "Threat Research, Vulnerabilities, API, API attacks, BOLA, CVE-2024-1313"
+      }
+    },
+    {
+      "creator": "Unit 42",
+      "title": "ASEAN Entities in the Spotlight: Chinese APT Group Targeting",
+      "link": "https://unit42.paloaltonetworks.com/chinese-apts-target-asean-entities/",
+      "pubDate": "Tue, 26 Mar 2024 20:00:22 +0000",
+      "enclosure": {
+        "length": "735985",
+        "type": "image/jpeg",
+        "url": "https://unit42.paloaltonetworks.com/wp-content/uploads/2024/06/04_Nation-State-cyberattacks_1920x900.jpg"
+      },
+      "dc:creator": "Unit 42",
+      "comments": "https://unit42.paloaltonetworks.com/chinese-apts-target-asean-entities/#respond",
+      "content": "<p>We analyze the actions of two separate Chinese APTs — including Stately Taurus — that targeted ASEAN-affiliated entities through different methods.</p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/chinese-apts-target-asean-entities/\">ASEAN Entities in the Spotlight: Chinese APT Group Targeting</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>\n",
+      "contentSnippet": "We analyze the actions of two separate Chinese APTs — including Stately Taurus — that targeted ASEAN-affiliated entities through different methods.\nThe post ASEAN Entities in the Spotlight: Chinese APT Group Targeting appeared first on Unit 42.",
+      "guid": "https://unit42.paloaltonetworks.com/?p=133176",
+      "categories": [
+        "Malware",
+        "Nation-State Cyberattacks",
+        "Threat Actor Groups",
+        "Advanced Persistent Threat",
+        "APAC",
+        "BRONZE PRESIDENT",
+        "China",
+        "Espionage",
+        "Mustang Panda",
+        "Stately Taurus"
+      ],
+      "isoDate": "2024-03-26T20:00:22.000Z",
+      "itunes": {
+        "subtitle": "We analyze the actions of two separate Chinese APTs — including Stately Taurus — that targeted ASEAN-affiliated entities through different methods. The post ASEAN Entities in the Spotlight: Chinese APT Group Targeting appeared first on Unit 42.",
+        "summary": "We analyze the actions of two separate Chinese APTs — including Stately Taurus — that targeted ASEAN-affiliated entities through different methods. The post ASEAN Entities in the Spotlight: Chinese APT Group Targeting appeared first on Unit 42.",
+        "explicit": "",
+        "keywords": "Malware, Nation-State Cyberattacks, Threat Actor Groups, Advanced Persistent Threat, APAC, BRONZE PRESIDENT, China, Espionage, Mustang Panda, Stately Taurus"
+      }
+    },
+    {
+      "creator": "Benjamin Chang, Goutam Tripathy, Pranay Kumar Chhaparwal, Anmol Maurya and Vishwa Thothathri",
+      "title": "Large-Scale StrelaStealer Campaign in Early 2024",
+      "link": "https://unit42.paloaltonetworks.com/strelastealer-campaign/",
+      "pubDate": "Fri, 22 Mar 2024 10:00:05 +0000",
+      "enclosure": {
+        "length": "1106422",
+        "type": "image/jpeg",
+        "url": "https://unit42.paloaltonetworks.com/wp-content/uploads/2024/06/06_Malware_Category_1920x900.jpg"
+      },
+      "dc:creator": "Benjamin Chang, Goutam Tripathy, Pranay Kumar Chhaparwal, Anmol Maurya and Vishwa Thothathri",
+      "comments": "https://unit42.paloaltonetworks.com/strelastealer-campaign/#respond",
+      "content": "<p>We unravel the details of two large-scale StrelaStealer campaigns from 2023 and 2024. This email credential stealer has a new variant delivered through zipped JScript.  </p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/strelastealer-campaign/\">Large-Scale StrelaStealer Campaign in Early 2024</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>\n",
+      "contentSnippet": "We unravel the details of two large-scale StrelaStealer campaigns from 2023 and 2024. This email credential stealer has a new variant delivered through zipped JScript.  \nThe post Large-Scale StrelaStealer Campaign in Early 2024 appeared first on Unit 42.",
+      "guid": "https://unit42.paloaltonetworks.com/?p=133130",
+      "categories": [
+        "Malware",
+        "Threat Research",
+        "credential stealer",
+        "Malspam",
+        "Sandbox",
+        "StrelaStealer"
+      ],
+      "isoDate": "2024-03-22T10:00:05.000Z",
+      "itunes": {
+        "subtitle": "We unravel the details of two large-scale StrelaStealer campaigns from 2023 and 2024. This email credential stealer has a new variant delivered through zipped JScript. The post Large-Scale StrelaStealer Campaign in Early 2024 appeared first on Unit 42.",
+        "summary": "We unravel the details of two large-scale StrelaStealer campaigns from 2023 and 2024. This email credential stealer has a new variant delivered through zipped JScript. The post Large-Scale StrelaStealer Campaign in Early 2024 appeared first on Unit 42.",
+        "explicit": "",
+        "keywords": "Malware, Threat Research, credential stealer, Malspam, Sandbox, StrelaStealer"
+      }
+    },
+    {
+      "creator": "Tom Fakterman, Daniel Frank and Jerome Tujague",
+      "title": "Curious Serpens’ FalseFont Backdoor: Technical Analysis, Detection and Prevention",
+      "link": "https://unit42.paloaltonetworks.com/curious-serpens-falsefont-backdoor/",
+      "pubDate": "Thu, 21 Mar 2024 10:00:15 +0000",
+      "enclosure": {
+        "length": "224275",
+        "type": "image/jpeg",
+        "url": "https://unit42.paloaltonetworks.com/wp-content/uploads/2024/03/unit42-Nation-State-cyberattacks.jpg"
+      },
+      "dc:creator": "Tom Fakterman, Daniel Frank and Jerome Tujague",
+      "comments": "https://unit42.paloaltonetworks.com/curious-serpens-falsefont-backdoor/#respond",
+      "content": "<p>Iran-linked APT Curious Serpens is using a new backdoor, FalseFont, to target the aerospace and defense industries through fake job recruitment.</p>\n<p>The post <a href=\"https://unit42.paloaltonetworks.com/curious-serpens-falsefont-backdoor/\">Curious Serpens’ FalseFont Backdoor: Technical Analysis, Detection and Prevention</a> appeared first on <a href=\"https://unit42.paloaltonetworks.com\">Unit 42</a>.</p>\n",
+      "contentSnippet": "Iran-linked APT Curious Serpens is using a new backdoor, FalseFont, to target the aerospace and defense industries through fake job recruitment.\nThe post Curious Serpens’ FalseFont Backdoor: Technical Analysis, Detection and Prevention appeared first on Unit 42.",
+      "guid": "https://unit42.paloaltonetworks.com/?p=133071",
+      "categories": [
+        "Malware",
+        "Nation-State Cyberattacks",
+        "Threat Actor Groups",
+        "Threat Research",
+        "backdoor",
+        "Curious Serpens"
+      ],
+      "isoDate": "2024-03-21T10:00:15.000Z",
+      "itunes": {
+        "subtitle": "Iran-linked APT Curious Serpens is using a new backdoor, FalseFont, to target the aerospace and defense industries through fake job recruitment. The post Curious Serpens’ FalseFont Backdoor: Technical Analysis, Detection and Prevention appeared first on Unit 42.",
+        "summary": "Iran-linked APT Curious Serpens is using a new backdoor, FalseFont, to target the aerospace and defense industries through fake job recruitment. The post Curious Serpens’ FalseFont Backdoor: Technical Analysis, Detection and Prevention appeared first on Unit 42.",
+        "explicit": "",
+        "keywords": "Malware, Nation-State Cyberattacks, Threat Actor Groups, Threat Research, backdoor, Curious Serpens"
+      }
+    }
+  ],
+  "feedUrl": "https://unit42.paloaltonetworks.com/feed/?v=2",
+  "image": {
+    "link": "https://unit42.paloaltonetworks.com/",
+    "url": "https://unit42.paloaltonetworks.com/wp-content/uploads/2024/06/icon-Unit42-180x180-1.png",
+    "title": "Unit 42",
+    "width": "32",
+    "height": "32"
+  },
+  "paginationLinks": {
+    "self": "https://unit42.paloaltonetworks.com/feed/?v=2"
+  },
+  "title": "Unit 42",
+  "description": "Palo Alto Networks",
+  "generator": "https://wordpress.org/?v=6.5.2",
+  "link": "https://unit42.paloaltonetworks.com/",
+  "language": "en-US",
+  "lastBuildDate": "Tue, 02 Jul 2024 19:44:48 +0000",
+  "itunes": {
+    "subtitle": "Palo Alto Networks",
+    "explicit": "no"
+  }
+}

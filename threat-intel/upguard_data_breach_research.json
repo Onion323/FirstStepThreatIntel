@@ -1,0 +1,481 @@
+{
+  "items": [
+    {
+      "title": "Stolen Data: National PTA Database Available on Dark Web | UpGuard",
+      "link": "https://www.upguard.com/breaches/pta-database",
+      "pubDate": "Wed, 15 May 2024 00:15:29 GMT",
+      "content": "On May 13th, UpGuard discovered a new set of data recently posted on a prominent dark web forum, this time allegedly belonging to the National Parent Teacher Association.",
+      "contentSnippet": "On May 13th, UpGuard discovered a new set of data recently posted on a prominent dark web forum, this time allegedly belonging to the National Parent Teacher Association.",
+      "guid": "https://www.upguard.com/breaches/pta-database",
+      "isoDate": "2024-05-15T00:15:29.000Z"
+    },
+    {
+      "title": "By Design: How Default Permissions on Microsoft Power Apps Exposed Millions | UpGuard",
+      "link": "https://www.upguard.com/breaches/power-apps",
+      "pubDate": "Mon, 08 May 2023 03:18:32 GMT",
+      "content": "38 million records were exposed in multiple data leaks resulting from misconfigured Microsoft Power Apps portals. Data included sensitive information such as COVID-19 contact tracing data, COVID-19 vaccination appointments, social security numbers for job applicants, employee IDs, and millions of names and email addresses.",
+      "contentSnippet": "38 million records were exposed in multiple data leaks resulting from misconfigured Microsoft Power Apps portals. Data included sensitive information such as COVID-19 contact tracing data, COVID-19 vaccination appointments, social security numbers for job applicants, employee IDs, and millions of names and email addresses.",
+      "guid": "https://www.upguard.com/breaches/power-apps",
+      "isoDate": "2023-05-08T03:18:32.000Z"
+    },
+    {
+      "title": "The Medibank Data Breach (Complete Timeline of Events) | UpGuard",
+      "link": "https://www.upguard.com/breaches/medibank-data-leak",
+      "pubDate": "Sat, 12 Nov 2022 08:57:57 GMT",
+      "content": "A comprehensive breakdown of all the events unfolding from the Medibank data breach.",
+      "contentSnippet": "A comprehensive breakdown of all the events unfolding from the Medibank data breach.",
+      "guid": "https://www.upguard.com/breaches/medibank-data-leak",
+      "isoDate": "2022-11-12T08:57:57.000Z"
+    },
+    {
+      "title": "Public Domain: How Configuration Information For the World's Largest Domain Name Registrar Was Exposed | UpGuard",
+      "link": "https://www.upguard.com/breaches/public-domain-how-configuration-information-for-the-worlds-largest-domain-name-registrar-was-exposed-online",
+      "pubDate": "Thu, 18 Aug 2022 07:11:05 GMT",
+      "content": "The UpGuard Cyber Risk Team has discovered and secured a data exposure of documents appearing to describe GoDaddy infrastructure running in the Amazon AWS cloud, preventing any future exploitation of this information.",
+      "contentSnippet": "The UpGuard Cyber Risk Team has discovered and secured a data exposure of documents appearing to describe GoDaddy infrastructure running in the Amazon AWS cloud, preventing any future exploitation of this information.",
+      "guid": "https://www.upguard.com/breaches/public-domain-how-configuration-information-for-the-worlds-largest-domain-name-registrar-was-exposed-online",
+      "isoDate": "2022-08-18T07:11:05.000Z"
+    },
+    {
+      "title": "Credit Crunch: Detailed Financial Histories Exposed for Thousands | UpGuard",
+      "link": "https://www.upguard.com/breaches/credit-crunch-national-credit-federation",
+      "pubDate": "Thu, 18 Aug 2022 07:11:05 GMT",
+      "content": "111 GB of internal customer information from National Credit Federation was left exposed in a publicly downloadable data repository. This is its story.",
+      "contentSnippet": "111 GB of internal customer information from National Credit Federation was left exposed in a publicly downloadable data repository. This is its story.",
+      "guid": "https://www.upguard.com/breaches/credit-crunch-national-credit-federation",
+      "isoDate": "2022-08-18T07:11:05.000Z"
+    },
+    {
+      "title": "Cut Cord: How Viacom's Master Controls Were Left Exposed | UpGuard",
+      "link": "https://www.upguard.com/breaches/cloud-leak-viacom",
+      "pubDate": "Thu, 18 Aug 2022 07:11:05 GMT",
+      "content": "An internet-exposed Puppet master and secret keys left the media empire's cloud assets vulnerable to exploitation.",
+      "contentSnippet": "An internet-exposed Puppet master and secret keys left the media empire's cloud assets vulnerable to exploitation.",
+      "guid": "https://www.upguard.com/breaches/cloud-leak-viacom",
+      "isoDate": "2022-08-18T07:11:05.000Z"
+    },
+    {
+      "title": "Political History: How A Democratic Organization Leaked Six Million Email Addresses | UpGuard",
+      "link": "https://www.upguard.com/breaches/data-leak-dscc-six-million-email-addresses",
+      "pubDate": "Thu, 18 Aug 2022 07:11:05 GMT",
+      "content": "An AWS S3 bucket configured for public access contained a file from 2010 with six million email addresses, apparently from the Democratic Senatorial Campaign Committee. ",
+      "contentSnippet": "An AWS S3 bucket configured for public access contained a file from 2010 with six million email addresses, apparently from the Democratic Senatorial Campaign Committee.",
+      "guid": "https://www.upguard.com/breaches/data-leak-dscc-six-million-email-addresses",
+      "isoDate": "2022-08-18T07:11:05.000Z"
+    },
+    {
+      "title": "Black Box, Red Disk: How Top Secret NSA and Army Data Leaked Online | UpGuard",
+      "link": "https://www.upguard.com/breaches/cloud-leak-inscom",
+      "pubDate": "Thu, 18 Aug 2022 07:11:05 GMT",
+      "content": "A sensitive S3 bucket left wide open, containing highly classified 'NOFORN' data, was discovered by the UpGuard team.",
+      "contentSnippet": "A sensitive S3 bucket left wide open, containing highly classified 'NOFORN' data, was discovered by the UpGuard team.",
+      "guid": "https://www.upguard.com/breaches/cloud-leak-inscom",
+      "isoDate": "2022-08-18T07:11:05.000Z"
+    },
+    {
+      "title": "Household Names: How Tetrad Exposed Data on 120 Million Consumers | UpGuard",
+      "link": "https://www.upguard.com/breaches/tetrad-breach-120-million-households",
+      "pubDate": "Tue, 09 Aug 2022 07:57:37 GMT",
+      "content": "A collection of data sets detailing the purchasing habits and consumer behavior profiles of 120 million American households was exposed by Tetrad. ",
+      "contentSnippet": "A collection of data sets detailing the purchasing habits and consumer behavior profiles of 120 million American households was exposed by Tetrad.",
+      "guid": "https://www.upguard.com/breaches/tetrad-breach-120-million-households",
+      "isoDate": "2022-08-09T07:57:37.000Z"
+    },
+    {
+      "title": "Cloud Leak: How A Verizon Partner Exposed Millions of Customer Accounts | UpGuard",
+      "link": "https://www.upguard.com/breaches/verizon-cloud-leak",
+      "pubDate": "Fri, 17 Jun 2022 09:14:56 GMT",
+      "content": "Account details for up to 14 million Verizon customers have been left totally exposed by a third-party vendor.",
+      "contentSnippet": "Account details for up to 14 million Verizon customers have been left totally exposed by a third-party vendor.",
+      "guid": "https://www.upguard.com/breaches/verizon-cloud-leak",
+      "isoDate": "2022-06-17T09:14:56.000Z"
+    },
+    {
+      "title": "Identity and Access Misstep: How an Amazon Engineer Exposed Credentials and More | UpGuard",
+      "link": "https://www.upguard.com/breaches/identity-and-access-misstep-how-an-amazon-engineer-exposed-credentials-and-more",
+      "pubDate": "Thu, 12 May 2022 08:34:05 GMT",
+      "content": "An AWS engineer uploaded personal information and system credentials to GitHub. UpGuard notified AWS Security to secure the data. ",
+      "contentSnippet": "An AWS engineer uploaded personal information and system credentials to GitHub. UpGuard notified AWS Security to secure the data.",
+      "guid": "https://www.upguard.com/breaches/identity-and-access-misstep-how-an-amazon-engineer-exposed-credentials-and-more",
+      "isoDate": "2022-05-12T08:34:05.000Z"
+    },
+    {
+      "title": "The Aggregate IQ Files, Part One: How a Political Engineering Firm Exposed Their Code Base | UpGuard",
+      "link": "https://www.upguard.com/breaches/aggregate-iq-part-one",
+      "pubDate": "Thu, 12 May 2022 08:34:05 GMT",
+      "content": "Political data firm AggregateIQ exposed IT assets that raise questions for society about how technology is being used in recent US political history.",
+      "contentSnippet": "Political data firm AggregateIQ exposed IT assets that raise questions for society about how technology is being used in recent US political history.",
+      "guid": "https://www.upguard.com/breaches/aggregate-iq-part-one",
+      "isoDate": "2022-05-12T08:34:05.000Z"
+    },
+    {
+      "title": "Home Economics: How Life in 123 Million American Households Was Exposed Online | UpGuard",
+      "link": "https://www.upguard.com/breaches/cloud-leak-alteryx",
+      "pubDate": "Thu, 12 May 2022 07:50:04 GMT",
+      "content": "This cloud leak reveals the personal details of 123 million US households, revealing in-depth analysis of their finances sold by credit reporting agency Experian.",
+      "contentSnippet": "This cloud leak reveals the personal details of 123 million US households, revealing in-depth analysis of their finances sold by credit reporting agency Experian.",
+      "guid": "https://www.upguard.com/breaches/cloud-leak-alteryx",
+      "isoDate": "2022-05-12T07:50:04.000Z"
+    },
+    {
+      "title": "The Chicago Way: An Electronic Voting Firm Exposes 1.8M Chicagoans | UpGuard",
+      "link": "https://www.upguard.com/breaches/cloud-leak-chicago-voters",
+      "pubDate": "Thu, 12 May 2022 07:50:04 GMT",
+      "content": "UpGuard has identified an exposure of Chicago voters' personal information by an electronic voting machine firm.",
+      "contentSnippet": "UpGuard has identified an exposure of Chicago voters' personal information by an electronic voting machine firm.",
+      "guid": "https://www.upguard.com/breaches/cloud-leak-chicago-voters",
+      "isoDate": "2022-05-12T07:50:04.000Z"
+    },
+    {
+      "title": "Out of Commission: How the Oklahoma Department of Securities Leaked Millions of Files | UpGuard",
+      "link": "https://www.upguard.com/breaches/rsync-oklahoma-securities-commission",
+      "pubDate": "Thu, 12 May 2022 07:50:04 GMT",
+      "content": "A storage server configured for public access exposed millions of files belonging to the Oklahoma Securities Commission.",
+      "contentSnippet": "A storage server configured for public access exposed millions of files belonging to the Oklahoma Securities Commission.",
+      "guid": "https://www.upguard.com/breaches/rsync-oklahoma-securities-commission",
+      "isoDate": "2022-05-12T07:50:04.000Z"
+    },
+    {
+      "title": "Double Indemnity: How An Insurer Exposed Its Customers | UpGuard",
+      "link": "https://www.upguard.com/breaches/nas-leak-mdjia",
+      "pubDate": "Tue, 10 May 2022 08:33:14 GMT",
+      "content": "A shared-risk property insurance provider in Maryland left exposed data revealing the personal details of thousands of customers.",
+      "contentSnippet": "A shared-risk property insurance provider in Maryland left exposed data revealing the personal details of thousands of customers.",
+      "guid": "https://www.upguard.com/breaches/nas-leak-mdjia",
+      "isoDate": "2022-05-10T08:33:14.000Z"
+    },
+    {
+      "title": "Out of Pocket: How an ISP Exposed Administrative System Credentials | UpGuard",
+      "link": "https://www.upguard.com/breaches/out-of-pocket-how-an-isp-exposed-administrative-system-credentials",
+      "pubDate": "Tue, 10 May 2022 08:33:14 GMT",
+      "content": "ISPs do more than provide internet service for individual customers-- they can also act as part of US critical infrastructure. See how one ISP exposed their administrative and root passwords to the public.",
+      "contentSnippet": "ISPs do more than provide internet service for individual customers-- they can also act as part of US critical infrastructure. See how one ISP exposed their administrative and root passwords to the public.",
+      "guid": "https://www.upguard.com/breaches/out-of-pocket-how-an-isp-exposed-administrative-system-credentials",
+      "isoDate": "2022-05-10T08:33:14.000Z"
+    },
+    {
+      "title": "Public Option: How Medical Records and Patient-Doctor Recordings Were Exposed | UpGuard",
+      "link": "https://www.upguard.com/breaches/how-medical-records-and-patient-doctor-recordings-were-exposed",
+      "pubDate": "Tue, 10 May 2022 08:33:14 GMT",
+      "content": "The intersection of information technology and healthcare creates new and improved functionality for managing and delivering healthcare services, but it also entails new risks. See how one telemedicine company exposed thousands of medical records and hundreds of patient-doctor recordings online.",
+      "contentSnippet": "The intersection of information technology and healthcare creates new and improved functionality for managing and delivering healthcare services, but it also entails new risks. See how one telemedicine company exposed thousands of medical records and hundreds of patient-doctor recordings online.",
+      "guid": "https://www.upguard.com/breaches/how-medical-records-and-patient-doctor-recordings-were-exposed",
+      "isoDate": "2022-05-10T08:33:14.000Z"
+    },
+    {
+      "title": "Open Enrollment: How HCL Exposed Employee Passwords and Project Data | UpGuard",
+      "link": "https://www.upguard.com/breaches/open-enrollment-how-hcl-exposed-employee-passwords-and-project-data",
+      "pubDate": "Tue, 10 May 2022 08:33:14 GMT",
+      "content": "The UpGuard data breach research team discovered and secured leaks from IT services provider HCL, including new employee passwords.",
+      "contentSnippet": "The UpGuard data breach research team discovered and secured leaks from IT services provider HCL, including new employee passwords.",
+      "guid": "https://www.upguard.com/breaches/open-enrollment-how-hcl-exposed-employee-passwords-and-project-data",
+      "isoDate": "2022-05-10T08:33:14.000Z"
+    },
+    {
+      "title": "Debt Collection: How an Unsecured ElasticSearch Instance Exposed Thousands of Borrowers | UpGuard",
+      "link": "https://www.upguard.com/breaches/encollect",
+      "pubDate": "Thu, 05 May 2022 09:55:06 GMT",
+      "content": "UpGuard can now report an ElasticSearch instance used as data storage for the debt collection system ENCollect has been secured. The server contained data about loans from multiple Indian and African financial services companies that had apparently been sent to ENCollect for collection. The data totalled 5.8GB in storage size and contained a total of 1,686,363 records. Those records included personal information like name, loan amount, date of birth, account number, and more.",
+      "contentSnippet": "UpGuard can now report an ElasticSearch instance used as data storage for the debt collection system ENCollect has been secured. The server contained data about loans from multiple Indian and African financial services companies that had apparently been sent to ENCollect for collection. The data totalled 5.8GB in storage size and contained a total of 1,686,363 records. Those records included personal information like name, loan amount, date of birth, account number, and more.",
+      "guid": "https://www.upguard.com/breaches/encollect",
+      "isoDate": "2022-05-05T09:55:06.000Z"
+    },
+    {
+      "title": "Overboard: How Tea Party Campaign Assets Were Exposed Online | UpGuard",
+      "link": "https://www.upguard.com/breaches/amazon-s3-how-tea-party-campaign-assets-were-exposed-online",
+      "pubDate": "Sun, 16 Jan 2022 23:33:37 GMT",
+      "content": "Read how a misconfigured Amazon S3 bucket exposed strategy documents and voter call lists for the Tea Party Citizen's Fund. ",
+      "contentSnippet": "Read how a misconfigured Amazon S3 bucket exposed strategy documents and voter call lists for the Tea Party Citizen's Fund.",
+      "guid": "https://www.upguard.com/breaches/amazon-s3-how-tea-party-campaign-assets-were-exposed-online",
+      "isoDate": "2022-01-16T23:33:37.000Z"
+    },
+    {
+      "title": "Enterprise Scale: How Public Storage Buckets Leaked Private Credentials | UpGuard",
+      "link": "https://www.upguard.com/breaches/enterprise-scale-how-credentials-leaked-from-public-storage-buckets",
+      "pubDate": "Sun, 16 Jan 2022 23:33:37 GMT",
+      "content": "Several large storage buckets under the control of Hortonworks were configured for public access, exposing credentials and other internal data. ",
+      "contentSnippet": "Several large storage buckets under the control of Hortonworks were configured for public access, exposing credentials and other internal data.",
+      "guid": "https://www.upguard.com/breaches/enterprise-scale-how-credentials-leaked-from-public-storage-buckets",
+      "isoDate": "2022-01-16T23:33:37.000Z"
+    },
+    {
+      "title": "Student Applications: How an Education Software Company Exposed Millions of Files | UpGuard",
+      "link": "https://www.upguard.com/breaches/smarterselect",
+      "pubDate": "Fri, 14 Jan 2022 08:01:21 GMT",
+      "content": "UpGuard can now report that a public Google Cloud Storage bucket containing approximately 1.5 terabytes of data used to administer funding programs for college students has been secured. The bucket belonged to SmarterSelect, a company that provides software for managing the application process for scholarships, grants, and awards. The more than 2.8 million files included documents like transcripts, resumes, personal essays, tax returns, and invoices for approximately 1.2 million applications to funding programs.",
+      "contentSnippet": "UpGuard can now report that a public Google Cloud Storage bucket containing approximately 1.5 terabytes of data used to administer funding programs for college students has been secured. The bucket belonged to SmarterSelect, a company that provides software for managing the application process for scholarships, grants, and awards. The more than 2.8 million files included documents like transcripts, resumes, personal essays, tax returns, and invoices for approximately 1.2 million applications to funding programs.",
+      "guid": "https://www.upguard.com/breaches/smarterselect",
+      "isoDate": "2022-01-14T08:01:21.000Z"
+    },
+    {
+      "title": "Dark Cloud: Inside The Pentagon's Leaked Internet Surveillance Archive | UpGuard",
+      "link": "https://www.upguard.com/breaches/cloud-leak-centcom",
+      "pubDate": "Sun, 27 Jun 2021 06:45:18 GMT",
+      "content": "As soon as the UpGuard Cyber Risk Team notified the Defense Department of this publicly exposed information, immediate action was taken, securing the open buckets and preventing further access.",
+      "contentSnippet": "As soon as the UpGuard Cyber Risk Team notified the Defense Department of this publicly exposed information, immediate action was taken, securing the open buckets and preventing further access.",
+      "guid": "https://www.upguard.com/breaches/cloud-leak-centcom",
+      "isoDate": "2021-06-27T06:45:18.000Z"
+    },
+    {
+      "title": "System Shock: How A Cloud Leak Exposed Accenture's Business | UpGuard",
+      "link": "https://www.upguard.com/breaches/cloud-leak-accenture",
+      "pubDate": "Sun, 27 Jun 2021 06:45:18 GMT",
+      "content": "Multiple sensitive buckets belonging to the corporation were found publicly exposed, revealing credentials, keys, and customer information.",
+      "contentSnippet": "Multiple sensitive buckets belonging to the corporation were found publicly exposed, revealing credentials, keys, and customer information.",
+      "guid": "https://www.upguard.com/breaches/cloud-leak-accenture",
+      "isoDate": "2021-06-27T06:45:18.000Z"
+    },
+    {
+      "title": "The RNC Files: Inside the Largest US Voter Data Leak | UpGuard",
+      "link": "https://www.upguard.com/breaches/the-rnc-files",
+      "pubDate": "Sun, 27 Jun 2021 06:45:18 GMT",
+      "content": "UpGuard has discovered an open database containing information on what appear to be approximately 198 million American voters left misconfigured by a GOP analytics firm.",
+      "contentSnippet": "UpGuard has discovered an open database containing information on what appear to be approximately 198 million American voters left misconfigured by a GOP analytics firm.",
+      "guid": "https://www.upguard.com/breaches/the-rnc-files",
+      "isoDate": "2021-06-27T06:45:18.000Z"
+    },
+    {
+      "title": "Digital Gangsters, Disinformation and Dark Adverts: The UK Parliament DCMS Report | UpGuard",
+      "link": "https://www.upguard.com/breaches/digital-gangsters-disinformation-dark-adverts-uk-parliament-dcms-report",
+      "pubDate": "Tue, 29 Dec 2020 06:32:56 GMT",
+      "content": "Based on UpGuard's data breach research, the UK Parliament’s DCMS Committee prepared and published the final report detailing their 18 month investigation into online disinformation and the privacy practices of platforms such as Facebook. Read about the report, and the AggregateIQ breach discovery.",
+      "contentSnippet": "Based on UpGuard's data breach research, the UK Parliament’s DCMS Committee prepared and published the final report detailing their 18 month investigation into online disinformation and the privacy practices of platforms such as Facebook. Read about the report, and the AggregateIQ breach discovery.",
+      "guid": "https://www.upguard.com/breaches/digital-gangsters-disinformation-dark-adverts-uk-parliament-dcms-report",
+      "isoDate": "2020-12-29T06:32:56.000Z"
+    },
+    {
+      "title": "Learning Curve: How Personal Data for One Million Individuals Was Exposed | UpGuard",
+      "link": "https://www.upguard.com/breaches/rsync-tdm",
+      "pubDate": "Wed, 23 Dec 2020 06:05:47 GMT",
+      "content": "Learn how the personal information of over one million individuals was exposed online, through a marketing network geared towards internet users interested in higher education.",
+      "contentSnippet": "Learn how the personal information of over one million individuals was exposed online, through a marketing network geared towards internet users interested in higher education.",
+      "guid": "https://www.upguard.com/breaches/rsync-tdm",
+      "isoDate": "2020-12-23T06:05:47.000Z"
+    },
+    {
+      "title": "Spy Games: How Booz Allen Hamilton Exposed Pentagon Access Keys | UpGuard",
+      "link": "https://www.upguard.com/breaches/spy-games-booz-allen-hamilton-pentagon",
+      "pubDate": "Wed, 23 Dec 2020 02:08:41 GMT",
+      "content": "While this blog post provides a description of a data exposure discovery involving Booz Allen Hamilton and the US National Geospatial-Intelligence Agency (NGA), this is no longer an active data breach.",
+      "contentSnippet": "While this blog post provides a description of a data exposure discovery involving Booz Allen Hamilton and the US National Geospatial-Intelligence Agency (NGA), this is no longer an active data breach.",
+      "guid": "https://www.upguard.com/breaches/spy-games-booz-allen-hamilton-pentagon",
+      "isoDate": "2020-12-23T02:08:41.000Z"
+    },
+    {
+      "title": "The AggregateIQ Files, Part Two: The Brexit Connection | UpGuard",
+      "link": "https://www.upguard.com/breaches/aggregate-iq-part-two-brexit",
+      "pubDate": "Wed, 16 Dec 2020 05:40:19 GMT",
+      "content": "Learn more about how the exposed files of data firm AggregateIQ cast light on the world of British politics.",
+      "contentSnippet": "Learn more about how the exposed files of data firm AggregateIQ cast light on the world of British politics.",
+      "guid": "https://www.upguard.com/breaches/aggregate-iq-part-two-brexit",
+      "isoDate": "2020-12-16T05:40:19.000Z"
+    },
+    {
+      "title": "Block Buster: How A Private Intelligence Platform Leaked 48 Million Personal Data Records | UpGuard",
+      "link": "https://www.upguard.com/breaches/s3-localblox",
+      "pubDate": "Wed, 16 Dec 2020 05:36:49 GMT",
+      "content": "Learn how over 48 million records containing personal data leaked from within the systems of a private intelligence search service.",
+      "contentSnippet": "Learn how over 48 million records containing personal data leaked from within the systems of a private intelligence search service.",
+      "guid": "https://www.upguard.com/breaches/s3-localblox",
+      "isoDate": "2020-12-16T05:36:49.000Z"
+    },
+    {
+      "title": "Florida County Database Mistake: Election Officials’ Logins Among Exposed Data | UpGuard",
+      "link": "https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords",
+      "pubDate": "Sun, 01 Nov 2020 22:14:10 GMT",
+      "content": "UpGuard can now disclose that an Amazon S3 storage bucket containing publicly exposed backups of systems representing the intranet and web presence for Martin County, Florida has been secured.",
+      "contentSnippet": "UpGuard can now disclose that an Amazon S3 storage bucket containing publicly exposed backups of systems representing the intranet and web presence for Martin County, Florida has been secured.",
+      "guid": "https://www.upguard.com/breaches/martin-county-florida-election-officials-passwords",
+      "isoDate": "2020-11-01T22:14:10.000Z"
+    },
+    {
+      "title": "LA Confidential: How Leaked Emergency Call Records Exposed LA County's Abuse & Crisis Victims | UpGuard",
+      "link": "https://www.upguard.com/breaches/la-county-211-hotline",
+      "pubDate": "Thu, 01 Oct 2020 06:23:07 GMT",
+      "content": "Learn how 3.5 million records were exposed by Los Angeles County 211, including names, addresses, and call notes detailing reports of abuse and crisis.",
+      "contentSnippet": "Learn how 3.5 million records were exposed by Los Angeles County 211, including names, addresses, and call notes detailing reports of abuse and crisis.",
+      "guid": "https://www.upguard.com/breaches/la-county-211-hotline",
+      "isoDate": "2020-10-01T06:23:07.000Z"
+    },
+    {
+      "title": "Insecure: How A Private Military Contractor's Hiring Files Leaked | UpGuard",
+      "link": "https://www.upguard.com/breaches/cloud-leak-tigerswan",
+      "pubDate": "Thu, 27 Aug 2020 03:18:49 GMT",
+      "content": "Thousands of resumes belonging to individuals applying to security firm TigerSwan were found publicly exposed in an AWS S3 bucket.",
+      "contentSnippet": "Thousands of resumes belonging to individuals applying to security firm TigerSwan were found publicly exposed in an AWS S3 bucket.",
+      "guid": "https://www.upguard.com/breaches/cloud-leak-tigerswan",
+      "isoDate": "2020-08-27T03:18:49.000Z"
+    },
+    {
+      "title": "Blackout: Engineering Firm Exposes Critical Infrastructure Data | UpGuard",
+      "link": "https://www.upguard.com/breaches/data-leak-pqe",
+      "pubDate": "Thu, 27 Aug 2020 03:18:49 GMT",
+      "content": "An unprotected backup at a Texas engineering firm exposes critical infrastructure data and information on sensitive clients serving the state.",
+      "contentSnippet": "An unprotected backup at a Texas engineering firm exposes critical infrastructure data and information on sensitive clients serving the state.",
+      "guid": "https://www.upguard.com/breaches/data-leak-pqe",
+      "isoDate": "2020-08-27T03:18:49.000Z"
+    },
+    {
+      "title": "Data Warehouse: How a Vendor for Half the Fortune 100 Exposed a Terabyte of Backups | UpGuard",
+      "link": "https://www.upguard.com/breaches/attunity-data-leak",
+      "pubDate": "Thu, 27 Aug 2020 03:18:49 GMT",
+      "content": "Backups ensure data continuity, but they're also a surface of risk. See how Fortune 100 vendor Attunity exposed nearly a terabyte of internal backups.",
+      "contentSnippet": "Backups ensure data continuity, but they're also a surface of risk. See how Fortune 100 vendor Attunity exposed nearly a terabyte of internal backups.",
+      "guid": "https://www.upguard.com/breaches/attunity-data-leak",
+      "isoDate": "2020-08-27T03:18:49.000Z"
+    },
+    {
+      "title": "Police Procedural: How South Carolina Arrest Records Were Exposed | UpGuard",
+      "link": "https://www.upguard.com/breaches/spartan-south-carolina-arrest-records-data-exposure",
+      "pubDate": "Thu, 27 Aug 2020 03:18:49 GMT",
+      "content": "Everyone who depends on tech assumes its risks. The justice system is no exception. See how detailed arrest records for South Carolina were exposed online.",
+      "contentSnippet": "Everyone who depends on tech assumes its risks. The justice system is no exception. See how detailed arrest records for South Carolina were exposed online.",
+      "guid": "https://www.upguard.com/breaches/spartan-south-carolina-arrest-records-data-exposure",
+      "isoDate": "2020-08-27T03:18:49.000Z"
+    },
+    {
+      "title": "HR Violation: How a Corporate Data Exposure Can Affect Employees | UpGuard",
+      "link": "https://www.upguard.com/breaches/hr-violation-how-a-corporate-data-exposure-can-affect-employees",
+      "pubDate": "Thu, 27 Aug 2020 03:18:49 GMT",
+      "content": "UpGuard discovered and helped secure an Australian company's code repository containing SQL backups of employee information, banking data, and more.",
+      "contentSnippet": "UpGuard discovered and helped secure an Australian company's code repository containing SQL backups of employee information, banking data, and more.",
+      "guid": "https://www.upguard.com/breaches/hr-violation-how-a-corporate-data-exposure-can-affect-employees",
+      "isoDate": "2020-08-27T03:18:49.000Z"
+    },
+    {
+      "title": "Cloud Leak: WSJ Parent Company Dow Jones Exposed Customer Data | UpGuard",
+      "link": "https://www.upguard.com/breaches/cloud-leak-dow-jones",
+      "pubDate": "Thu, 27 Aug 2020 03:18:49 GMT",
+      "content": "Sensitive data points on millions of Dow Jones publication customers were exposed in a massive cloud leak.",
+      "contentSnippet": "Sensitive data points on millions of Dow Jones publication customers were exposed in a massive cloud leak.",
+      "guid": "https://www.upguard.com/breaches/cloud-leak-dow-jones",
+      "isoDate": "2020-08-27T03:18:49.000Z"
+    },
+    {
+      "title": "Health Risk: How a Medical Practice Exposed Details for 40,000 Patients | UpGuard",
+      "link": "https://www.upguard.com/breaches/rsync-medical",
+      "pubDate": "Thu, 27 Aug 2020 03:18:49 GMT",
+      "content": "Data from a Huntingon, NY medical practice was left publicly exposed via a misconfigured rsync server, exposing information about staff and forty thousand patients.",
+      "contentSnippet": "Data from a Huntingon, NY medical practice was left publicly exposed via a misconfigured rsync server, exposing information about staff and forty thousand patients.",
+      "guid": "https://www.upguard.com/breaches/rsync-medical",
+      "isoDate": "2020-08-27T03:18:49.000Z"
+    },
+    {
+      "title": "Public Relations: How a Marketing & PR Platform Exposed Thousands of Users | UpGuard",
+      "link": "https://www.upguard.com/breaches/public-relations-how-a-marketing-pr-platform-exposed-thousands-of-users",
+      "pubDate": "Thu, 27 Aug 2020 03:18:49 GMT",
+      "content": "A misconfigured Amazon S3 storage bucket leaked data from iPR Software, exposing tens of thousands of user accounts and client documents. ",
+      "contentSnippet": "A misconfigured Amazon S3 storage bucket leaked data from iPR Software, exposing tens of thousands of user accounts and client documents.",
+      "guid": "https://www.upguard.com/breaches/public-relations-how-a-marketing-pr-platform-exposed-thousands-of-users",
+      "isoDate": "2020-08-27T03:18:49.000Z"
+    },
+    {
+      "title": "Mobile Data: How a Quiz App Exposed Account Details for Millions | UpGuard",
+      "link": "https://www.upguard.com/breaches/tvsmiles-european-mobile-advertising-app-personal-data",
+      "pubDate": "Thu, 27 Aug 2020 03:18:49 GMT",
+      "content": "Data from TVSmiles, a German mobile application for delivering gamified advertisements, exposed a database including personally identifiable information.",
+      "contentSnippet": "Data from TVSmiles, a German mobile application for delivering gamified advertisements, exposed a database including personally identifiable information.",
+      "guid": "https://www.upguard.com/breaches/tvsmiles-european-mobile-advertising-app-personal-data",
+      "isoDate": "2020-08-27T03:18:49.000Z"
+    },
+    {
+      "title": "Campaign Gaffe: How a Voter Contact App Exposed Credentials and Code | UpGuard",
+      "link": "https://www.upguard.com/breaches/campaign-sidekick-git-data-leak",
+      "pubDate": "Thu, 27 Aug 2020 03:18:49 GMT",
+      "content": "The source code for a voter contact app was left publicly accessible, exposing credentials, code, and the app's development history. ",
+      "contentSnippet": "The source code for a voter contact app was left publicly accessible, exposing credentials, code, and the app's development history.",
+      "guid": "https://www.upguard.com/breaches/campaign-sidekick-git-data-leak",
+      "isoDate": "2020-08-27T03:18:49.000Z"
+    },
+    {
+      "title": "The AggregateIQ Files, Part Four: Northwest Passage | UpGuard",
+      "link": "https://www.upguard.com/breaches/aggregate-iq-part-four-canada",
+      "pubDate": "Thu, 27 Aug 2020 03:18:49 GMT",
+      "content": "Learn more about how a data exposure from within Cambridge Analytica-linked firm AggregateIQ reveals web assets built for Canadian politicians and parties.",
+      "contentSnippet": "Learn more about how a data exposure from within Cambridge Analytica-linked firm AggregateIQ reveals web assets built for Canadian politicians and parties.",
+      "guid": "https://www.upguard.com/breaches/aggregate-iq-part-four-canada",
+      "isoDate": "2020-08-27T03:18:49.000Z"
+    },
+    {
+      "title": "The AggregateIQ Files, Part Three: A Monarch, A Peasant, and a Saga | UpGuard",
+      "link": "https://www.upguard.com/breaches/aggregate-iq-part-three-monarch",
+      "pubDate": "Thu, 27 Aug 2020 03:18:49 GMT",
+      "content": "Learn for the first time about the secret tools developed by AggregateIQ for purposes of tracking and influencing internet users, including on Facebook.",
+      "contentSnippet": "Learn for the first time about the secret tools developed by AggregateIQ for purposes of tracking and influencing internet users, including on Facebook.",
+      "guid": "https://www.upguard.com/breaches/aggregate-iq-part-three-monarch",
+      "isoDate": "2020-08-27T03:18:49.000Z"
+    },
+    {
+      "title": "Losing Face: Two More Cases of Third-Party Facebook App Data Exposure | UpGuard",
+      "link": "https://www.upguard.com/breaches/facebook-user-data-leak",
+      "pubDate": "Thu, 27 Aug 2020 03:18:49 GMT",
+      "content": "Third-party Facebook apps gather Facebook data about the people who use them. While Facebook struggles to contain these exposures, insecure third-party data practices & misconfigured cloud systems continue to leak Facebook data to the internet. See how UpGuard discovered and secured two such cases.",
+      "contentSnippet": "Third-party Facebook apps gather Facebook data about the people who use them. While Facebook struggles to contain these exposures, insecure third-party data practices & misconfigured cloud systems continue to leak Facebook data to the internet. See how UpGuard discovered and secured two such cases.",
+      "guid": "https://www.upguard.com/breaches/facebook-user-data-leak",
+      "isoDate": "2020-08-27T03:18:49.000Z"
+    },
+    {
+      "title": "Short Circuit: How a Robotics Vendor Exposed Confidential Data for Major Manufacturing Companies | UpGuard",
+      "link": "https://www.upguard.com/breaches/short-circuit-how-a-robotics-vendor-exposed-confidential-data-for-major-manufacturing-companies",
+      "pubDate": "Thu, 27 Aug 2020 03:18:49 GMT",
+      "content": "Manufacturing companies rely on robotics automation to power their factories and ultimately, their businesses. See how one robotics vendor exposed confidential information for over 100 clients, including divisions of Toyota, Ford, GM, and Tesla.",
+      "contentSnippet": "Manufacturing companies rely on robotics automation to power their factories and ultimately, their businesses. See how one robotics vendor exposed confidential information for over 100 clients, including divisions of Toyota, Ford, GM, and Tesla.",
+      "guid": "https://www.upguard.com/breaches/short-circuit-how-a-robotics-vendor-exposed-confidential-data-for-major-manufacturing-companies",
+      "isoDate": "2020-08-27T03:18:49.000Z"
+    },
+    {
+      "title": "Telecommunications Breakdown: How Russian Telco Infrastructure was Exposed | UpGuard",
+      "link": "https://www.upguard.com/breaches/mts-nokia-telecom-inventory-data-exposure",
+      "pubDate": "Thu, 27 Aug 2020 03:18:49 GMT",
+      "content": "A storage device containing 1.7 terabytes of information detailing telecommunications installations throughout the Russian Federation was exposed to the public internet.",
+      "contentSnippet": "A storage device containing 1.7 terabytes of information detailing telecommunications installations throughout the Russian Federation was exposed to the public internet.",
+      "guid": "https://www.upguard.com/breaches/mts-nokia-telecom-inventory-data-exposure",
+      "isoDate": "2020-08-27T03:18:49.000Z"
+    },
+    {
+      "title": "Cloud Burst: Software Delivery via Public Cloud Storage | UpGuard",
+      "link": "https://www.upguard.com/breaches/cloud-leak-birst",
+      "pubDate": "Thu, 27 Aug 2020 03:18:49 GMT",
+      "content": "Analytical software provider Birst exposed an appliance in an S3 bucket.",
+      "contentSnippet": "Analytical software provider Birst exposed an appliance in an S3 bucket.",
+      "guid": "https://www.upguard.com/breaches/cloud-leak-birst",
+      "isoDate": "2020-08-27T03:18:49.000Z"
+    },
+    {
+      "title": "Medical Procedure: How a Misconfigured Storage Bucket Exposed Medical Data | UpGuard",
+      "link": "https://www.upguard.com/breaches/data-leak-hipaa-medico-s3",
+      "pubDate": "Thu, 27 Aug 2020 03:18:49 GMT",
+      "content": "Thousands of files including medical, business, and legal data were exposed via a misconfigured AWS S3 storage bucket.",
+      "contentSnippet": "Thousands of files including medical, business, and legal data were exposed via a misconfigured AWS S3 storage bucket.",
+      "guid": "https://www.upguard.com/breaches/data-leak-hipaa-medico-s3",
+      "isoDate": "2020-08-27T03:18:49.000Z"
+    },
+    {
+      "title": "Clinical Trials: How Personal Information for Thousands of Australians was Exposed | UpGuard",
+      "link": "https://www.upguard.com/breaches/data-leak-neoclinical-australia-new-zealand",
+      "pubDate": "Thu, 27 Aug 2020 03:18:49 GMT",
+      "content": "A company that matches individuals with clinical trials in Australia and New Zealand exposed personal information on over 37,000 people via a misconfigured MongoDB.",
+      "contentSnippet": "A company that matches individuals with clinical trials in Australia and New Zealand exposed personal information on over 37,000 people via a misconfigured MongoDB.",
+      "guid": "https://www.upguard.com/breaches/data-leak-neoclinical-australia-new-zealand",
+      "isoDate": "2020-08-27T03:18:49.000Z"
+    },
+    {
+      "title": "Bad Influence: How A Marketing Startup Exposed Thousands of Social Media Stars | UpGuard",
+      "link": "https://www.upguard.com/breaches/cloud-leak-octoly",
+      "pubDate": "Thu, 27 Aug 2020 03:18:49 GMT",
+      "content": "UpGuard has discovered a cloud leak from Paris-based digital marketing startup Octoly exposing the personal details of thousands of social media personalities. ",
+      "contentSnippet": "UpGuard has discovered a cloud leak from Paris-based digital marketing startup Octoly exposing the personal details of thousands of social media personalities.",
+      "guid": "https://www.upguard.com/breaches/cloud-leak-octoly",
+      "isoDate": "2020-08-27T03:18:49.000Z"
+    }
+  ],
+  "feedUrl": "https://www.upguard.com/breaches/rss.xml",
+  "paginationLinks": {
+    "self": "https://www.upguard.com/breaches/rss.xml"
+  },
+  "title": "UpGuard Data Breach Research",
+  "description": "Subscribe to UpGuard's data breach research and get notified when new research is released.",
+  "pubDate": "Tue, 02 Jul 2024 20:46:42 GMT",
+  "generator": "Webflow",
+  "link": "https://www.upguard.com"
+}

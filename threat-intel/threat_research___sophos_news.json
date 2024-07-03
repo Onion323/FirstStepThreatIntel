@@ -1,0 +1,242 @@
+{
+  "items": [
+    {
+      "creator": "Andrew Brandt",
+      "title": "Phishing, BEC attackers target candidates in local election, among others",
+      "link": "https://news.sophos.com/en-us/2024/06/13/election-phishing-campaign/",
+      "pubDate": "Thu, 13 Jun 2024 10:02:56 +0000",
+      "dc:creator": "Andrew Brandt",
+      "comments": "https://news.sophos.com/en-us/2024/06/13/election-phishing-campaign/#respond",
+      "content": "An escalating series of email-borne attacks were sent to candidates, including the author",
+      "contentSnippet": "An escalating series of email-borne attacks were sent to candidates, including the author",
+      "guid": "https://news.sophos.com/en-us/?p=953242",
+      "categories": [
+        "Threat Research",
+        "election",
+        "Email",
+        "featured",
+        "fraud",
+        "Phishing",
+        "Sophos X-Ops",
+        "Spam"
+      ],
+      "isoDate": "2024-06-13T10:02:56.000Z"
+    },
+    {
+      "creator": "Angela Gunn",
+      "title": "RD Web Access abuse: Fighting back",
+      "link": "https://news.sophos.com/en-us/2024/06/12/rd-web-access-abuse-fighting-back/",
+      "pubDate": "Wed, 12 Jun 2024 18:59:54 +0000",
+      "dc:creator": "Angela Gunn",
+      "comments": "https://news.sophos.com/en-us/2024/06/12/rd-web-access-abuse-fighting-back/#respond",
+      "content": "Investigation insights and recommendations from a recent welter of incident-response cases",
+      "contentSnippet": "Investigation insights and recommendations from a recent welter of incident-response cases",
+      "guid": "https://news.sophos.com/en-us/?p=955651",
+      "categories": [
+        "Security Operations",
+        "Threat Research",
+        "active adversary",
+        "Active Adversary Report",
+        "featured",
+        "incident response",
+        "RDP",
+        "Sophos X-Ops"
+      ],
+      "isoDate": "2024-06-12T18:59:54.000Z"
+    },
+    {
+      "creator": "Angela Gunn",
+      "title": "June Patch Tuesday squares up with 49 patches",
+      "link": "https://news.sophos.com/en-us/2024/06/11/june-patch-tuesday-squares-up-with-49-patches/",
+      "pubDate": "Wed, 12 Jun 2024 01:21:01 +0000",
+      "dc:creator": "Angela Gunn",
+      "comments": "https://news.sophos.com/en-us/2024/06/11/june-patch-tuesday-squares-up-with-49-patches/#respond",
+      "content": "Just one critical-severity issue addressed, but don’t sleep on an industry-wide DNS issue",
+      "contentSnippet": "Just one critical-severity issue addressed, but don’t sleep on an industry-wide DNS issue",
+      "guid": "https://news.sophos.com/en-us/?p=955751",
+      "categories": [
+        "Threat Research",
+        "CVE-2024-30080",
+        "CVE-2024-37325",
+        "CVE-2024-50868",
+        "featured",
+        "Patch Tuesday",
+        "Sophos X-Ops",
+        "Windows"
+      ],
+      "isoDate": "2024-06-12T01:21:01.000Z"
+    },
+    {
+      "creator": "gallagherseanm",
+      "title": "Operation Crimson Palace: A Technical Deep Dive",
+      "link": "https://news.sophos.com/en-us/2024/06/05/operation-crimson-palace-a-technical-deep-dive/",
+      "pubDate": "Wed, 05 Jun 2024 10:00:46 +0000",
+      "dc:creator": "gallagherseanm",
+      "comments": "https://news.sophos.com/en-us/2024/06/05/operation-crimson-palace-a-technical-deep-dive/#respond",
+      "content": "Sophos Managed Detection and Response initiated a threat hunt across all customers after the detection of abuse of a vulnerable legitimate VMware executable (vmnat.exe) to perform dynamic link library (DLL) side-loading on one customer’s network. In a search for similar incidents in telemetry, MDR ultimately uncovered a complex, persistent cyberespionage campaign targeting a high-profile government [&#8230;]",
+      "contentSnippet": "Sophos Managed Detection and Response initiated a threat hunt across all customers after the detection of abuse of a vulnerable legitimate VMware executable (vmnat.exe) to perform dynamic link library (DLL) side-loading on one customer’s network. In a search for similar incidents in telemetry, MDR ultimately uncovered a complex, persistent cyberespionage campaign targeting a high-profile government […]",
+      "guid": "https://news.sophos.com/en-us/?p=955433",
+      "categories": [
+        "Security Operations",
+        "Threat Research",
+        "Crimson Palace",
+        "Sophos X-Ops"
+      ],
+      "isoDate": "2024-06-05T10:00:46.000Z"
+    },
+    {
+      "creator": "gallagherseanm",
+      "title": "Operation Crimson Palace: Sophos threat hunting unveils multiple clusters of Chinese state-sponsored activity targeting Southeast Asian government",
+      "link": "https://news.sophos.com/en-us/2024/06/05/operation-crimson-palace-sophos-threat-hunting-unveils-multiple-clusters-of-chinese-state-sponsored-activity-targeting-southeast-asia/",
+      "pubDate": "Wed, 05 Jun 2024 10:00:34 +0000",
+      "dc:creator": "gallagherseanm",
+      "comments": "https://news.sophos.com/en-us/2024/06/05/operation-crimson-palace-sophos-threat-hunting-unveils-multiple-clusters-of-chinese-state-sponsored-activity-targeting-southeast-asia/#respond",
+      "content": "Threat clusters targeted a government agency for cyberespionage in a campaign that had precursors dating back to early 2022.",
+      "contentSnippet": "Threat clusters targeted a government agency for cyberespionage in a campaign that had precursors dating back to early 2022.",
+      "guid": "https://news.sophos.com/en-us/?p=955383",
+      "categories": [
+        "Threat Research",
+        "BackdoorDiplomacy",
+        "china",
+        "EAGERBEE",
+        "Earth Longzhi",
+        "featured",
+        "RUDEBIRD",
+        "Sophos X-Ops",
+        "state actors",
+        "TA428",
+        "threat-hunting",
+        "Worok"
+      ],
+      "isoDate": "2024-06-05T10:00:34.000Z"
+    },
+    {
+      "creator": "Angela Gunn",
+      "title": "No mayday call necessary for the year’s fifth Patch Tuesday",
+      "link": "https://news.sophos.com/en-us/2024/05/14/no-mayday-call-necessary-for-the-years-fifth-patch-tuesday/",
+      "pubDate": "Wed, 15 May 2024 03:53:24 +0000",
+      "dc:creator": "Angela Gunn",
+      "comments": "https://news.sophos.com/en-us/2024/05/14/no-mayday-call-necessary-for-the-years-fifth-patch-tuesday/#respond",
+      "content": "A return to pre-April CVE volumes, mostly for Windows, though two vulns – or is it three? -- are already under exploit",
+      "contentSnippet": "A return to pre-April CVE volumes, mostly for Windows, though two vulns – or is it three? -- are already under exploit",
+      "guid": "https://news.sophos.com/en-us/?p=955284",
+      "categories": [
+        "Threat Research",
+        "CVE-2024-30040",
+        "CVE-2024-30044",
+        "CVE-2024-30050",
+        "CVE-2024-30051",
+        "CVE-2024-4559",
+        "featured",
+        "Microsoft",
+        "Patch Tuesday",
+        "Sophos X-Ops"
+      ],
+      "isoDate": "2024-05-15T03:53:24.000Z"
+    },
+    {
+      "creator": "Angela Gunn",
+      "title": "Extracting data from encrypted virtual disks: six methods",
+      "link": "https://news.sophos.com/en-us/2024/05/13/extract-data-from-encrypted-vms/",
+      "pubDate": "Mon, 13 May 2024 08:30:24 +0000",
+      "dc:creator": "Angela Gunn",
+      "comments": "https://news.sophos.com/en-us/2024/05/13/extract-data-from-encrypted-vms/#respond",
+      "content": "For incident responders, a variety of techniques for information retrieval from locked-up VMs",
+      "contentSnippet": "For incident responders, a variety of techniques for information retrieval from locked-up VMs",
+      "guid": "https://news.sophos.com/en-us/?p=955196",
+      "categories": [
+        "Security Operations",
+        "Threat Research",
+        "data extraction",
+        "DFIR",
+        "Encryption",
+        "featured",
+        "incident response",
+        "MDR",
+        "Ransomware",
+        "Sophos X-Ops",
+        "virtual machine"
+      ],
+      "isoDate": "2024-05-13T08:30:24.000Z"
+    },
+    {
+      "creator": "Chester Wisniewski",
+      "title": "Defenders assemble: Time to get in the game",
+      "link": "https://news.sophos.com/en-us/2024/05/07/defenders-assemble/",
+      "pubDate": "Tue, 07 May 2024 21:00:44 +0000",
+      "dc:creator": "Chester Wisniewski",
+      "comments": "https://news.sophos.com/en-us/2024/05/07/defenders-assemble/#respond",
+      "content": "Recent research finds signs of progress in the public-private alliance against ransomware",
+      "contentSnippet": "Recent research finds signs of progress in the public-private alliance against ransomware",
+      "guid": "https://news.sophos.com/en-us/?p=955094",
+      "categories": [
+        "Threat Research",
+        "CISA",
+        "featured",
+        "law enforcement",
+        "Ransomware",
+        "Secure by Design",
+        "Sophos X-Ops"
+      ],
+      "isoDate": "2024-05-07T21:00:44.000Z"
+    },
+    {
+      "creator": "Gabor Szappanos",
+      "title": "Malware campaign attempts abuse of defender binaries",
+      "link": "https://news.sophos.com/en-us/2024/04/26/malware-campaign-abuses-legit-defender-binaries/",
+      "pubDate": "Fri, 26 Apr 2024 16:26:02 +0000",
+      "dc:creator": "Gabor Szappanos",
+      "comments": "https://news.sophos.com/en-us/2024/04/26/malware-campaign-abuses-legit-defender-binaries/#respond",
+      "content": "Command-and-control wares try to sneak onto systems disguised as various vendors; payloads vary, but Sophos customers are protected",
+      "contentSnippet": "Command-and-control wares try to sneak onto systems disguised as various vendors; payloads vary, but Sophos customers are protected",
+      "guid": "https://news.sophos.com/en-us/?p=954786",
+      "categories": [
+        "Security Operations",
+        "Threat Research",
+        "binaries",
+        "featured",
+        "impersonation",
+        "Sophos X-Ops"
+      ],
+      "isoDate": "2024-04-26T16:26:02.000Z"
+    },
+    {
+      "creator": "Matt Wixey",
+      "title": "‘Junk gun’ ransomware: Peashooters can still pack a punch",
+      "link": "https://news.sophos.com/en-us/2024/04/17/junk-gun-ransomware-peashooters-can-still-pack-a-punch/",
+      "pubDate": "Wed, 17 Apr 2024 10:00:08 +0000",
+      "dc:creator": "Matt Wixey",
+      "comments": "https://news.sophos.com/en-us/2024/04/17/junk-gun-ransomware-peashooters-can-still-pack-a-punch/#respond",
+      "content": "A Sophos X-Ops investigation finds that a wave of crude, cheap ransomware could spell trouble for small businesses and individuals – but also provide insights into threat actor career development and the wider threat landscape",
+      "contentSnippet": "A Sophos X-Ops investigation finds that a wave of crude, cheap ransomware could spell trouble for small businesses and individuals – but also provide insights into threat actor career development and the wider threat landscape",
+      "guid": "https://news.sophos.com/en-us/?p=953998",
+      "categories": [
+        "Threat Research",
+        "cybercrime forums",
+        "featured",
+        "junk gun",
+        "Ransomware",
+        "Small business",
+        "Sophos X-Ops"
+      ],
+      "isoDate": "2024-04-17T10:00:08.000Z"
+    }
+  ],
+  "feedUrl": "https://news.sophos.com/en-us/category/threat-research/feed/",
+  "image": {
+    "link": "https://news.sophos.com/en-us/",
+    "url": "https://news.sophos.com/wp-content/uploads/2020/01/cropped-sophos.png?w=32",
+    "title": "Threat Research – Sophos News",
+    "width": "32",
+    "height": "32"
+  },
+  "paginationLinks": {
+    "self": "https://news.sophos.com/en-us/category/threat-research/feed/"
+  },
+  "title": "Threat Research – Sophos News",
+  "description": "The Sophos Blog",
+  "generator": "https://wordpress.org/?v=6.5.5",
+  "link": "https://news.sophos.com/en-us/",
+  "language": "en-US",
+  "lastBuildDate": "Tue, 25 Jun 2024 17:49:08 +0000"
+}

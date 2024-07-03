@@ -1,0 +1,95 @@
+{
+  "items": [
+    {
+      "title": "‘RegreSSHion’ bug raises alarms but experts question chances of widespread exploitation",
+      "link": "https://therecord.media/regresshion-bug-raises-alarms-qualys",
+      "pubDate": "Tue, 02 Jul 2024 21:09:06 GMT",
+      "enclosure": {
+        "url": "https://cms.therecord.media/uploads/format_webp/digital_0189ea1319.jpg",
+        "length": "0",
+        "type": "image/jpg"
+      },
+      "guid": "https://therecord.media/regresshion-bug-raises-alarms-qualys",
+      "categories": [
+        "News",
+        "Technology"
+      ],
+      "isoDate": "2024-07-02T21:09:06.000Z"
+    },
+    {
+      "title": "Supreme Court to take up Texas law requiring adults verify age to watch porn",
+      "link": "https://therecord.media/supreme-court-texas-law-pornography",
+      "pubDate": "Tue, 02 Jul 2024 19:21:00 GMT",
+      "enclosure": {
+        "url": "https://cms.therecord.media/uploads/format_webp/US_Supreme_Court_2400bb8585.jpg",
+        "length": "0",
+        "type": "image/jpg"
+      },
+      "guid": "https://therecord.media/supreme-court-texas-law-pornography",
+      "categories": [
+        "News",
+        "Government",
+        "Privacy"
+      ],
+      "isoDate": "2024-07-02T19:21:00.000Z"
+    },
+    {
+      "title": "Fintech company Affirm says Evolve Bank attack exposed customer info",
+      "link": "https://therecord.media/affirm-lender-data-breach-evolve-bank-cyberattack",
+      "pubDate": "Tue, 02 Jul 2024 17:15:55 GMT",
+      "enclosure": {
+        "url": "https://cms.therecord.media/uploads/format_webp/affirm_card_4842956656.jpg",
+        "length": "0",
+        "type": "image/jpg"
+      },
+      "guid": "https://therecord.media/affirm-lender-data-breach-evolve-bank-cyberattack",
+      "categories": [
+        "Industry",
+        "Cybercrime",
+        "News"
+      ],
+      "isoDate": "2024-07-02T17:15:55.000Z"
+    },
+    {
+      "title": "LockBit claims cyberattack on Croatia’s largest hospital",
+      "link": "https://therecord.media/lockbit-claims-cyberattack-croatia-hospital",
+      "pubDate": "Tue, 02 Jul 2024 16:51:33 GMT",
+      "enclosure": {
+        "url": "https://cms.therecord.media/uploads/format_webp/KBC_Zagreb_pp_7bb1611013.jpg",
+        "length": "0",
+        "type": "image/jpg"
+      },
+      "guid": "https://therecord.media/lockbit-claims-cyberattack-croatia-hospital",
+      "categories": [
+        "News",
+        "Cybercrime"
+      ],
+      "isoDate": "2024-07-02T16:51:33.000Z"
+    },
+    {
+      "title": "Stolen credentials could unmask thousands of darknet child abuse website users",
+      "link": "https://therecord.media/stolen-credentials-csam-unmasked-report",
+      "pubDate": "Tue, 02 Jul 2024 14:00:00 GMT",
+      "enclosure": {
+        "url": "https://cms.therecord.media/uploads/format_webp/hands_keyboard_27d16135ea.jpg",
+        "length": "0",
+        "type": "image/jpg"
+      },
+      "guid": "https://therecord.media/stolen-credentials-csam-unmasked-report",
+      "categories": [
+        "News",
+        "Industry",
+        "Cybercrime"
+      ],
+      "isoDate": "2024-07-02T14:00:00.000Z"
+    }
+  ],
+  "title": "The Record from Recorded Future News",
+  "description": "The Record by Recorded Future News gives exclusive, behind-the-scenes access to leaders, policymakers, researchers, and the shadows of the cyber underground.",
+  "generator": "The Record from Recorded Future News",
+  "link": "https://therecord.media/feed",
+  "language": "en",
+  "copyright": "Copyright © 2024 | The Record from Recorded Future News",
+  "lastBuildDate": "Tue, 02 Jul 2024 21:09:06 GMT",
+  "docs": "https://validator.w3.org/feed/docs/rss2.html"
+}
